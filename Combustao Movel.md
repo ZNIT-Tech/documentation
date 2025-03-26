@@ -1,6 +1,6 @@
 # Combustão Móvel
 
-###. Dados obrigatórios para cálculo
+## . Dados obrigatórios para cálculo
 
 ### Cálculo de emissões por tipo e ano de fabricação da frota de veículos no ano
 categoria_de_emissoes: ‘COMBUSTÃO MÓVEL 1’
@@ -43,7 +43,7 @@ Obs.: Inserir apenas consumo mensal ou consumo anual. Quant só é usado quando 
 
 ---
 
-### . Dados complementares
+## . Dados complementares
 |Campo no Supabase|Valor|
 |---|---|
 |cnpj_fornecedor|CNPJ Fornecedor|
