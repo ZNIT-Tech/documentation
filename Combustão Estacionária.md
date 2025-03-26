@@ -6,7 +6,7 @@
 
 |Campos no Supabase|Valores GHG|
 |---|---|
-|`date`|(yyyy-mm-dd hh:mm:ss)|
+|`date`|_(yyyy-mm-dd hh:mm:ss)_|
 |`combustivel`|Combustível Utilizado|
 |`id_setor`|Setor do fator de emissão|
 |`un`|Unidade|
