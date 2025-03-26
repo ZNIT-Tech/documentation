@@ -4,7 +4,7 @@
 
 `categoria_de_emissoes`: ‘COMBUSTÃO ESTACIONÁRIA’
 
-|Campos no Supabase|Valores GHG|
+|Campo no Supabase|Valor GHG|
 |---|---|
 |`date`|Data de referência _(yyyy-mm-dd hh:mm:ss)_|
 |[combustivel](https://github.com/ZNIT-Tech/documentation/blob/main/Combustiveis.md)|Combustível Utilizado|
@@ -15,5 +15,8 @@
 ---
 
 ### .Dados Complementares:
-CNPJ Fornecedor
-Nome Fornecedor
+
+|Campo no Supabase|Valor|
+|---|---|
+cnpj_fornecedor|CNPJ Fornecedor
+nome_fornecedor|Nome Fornecedor
