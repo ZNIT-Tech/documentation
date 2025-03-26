@@ -46,9 +46,12 @@ Obs.: Inserir apenas consumo mensal ou consumo anual. Quant só é usado quando 
 
 ---
 
-## . Dados complementares
+<details>
+  <summary><strong>Dados complementares</strong></summary>
+
 |Campo no Supabase|Valor|
 |---|---|
 |cnpj_fornecedor|CNPJ Fornecedor|
 |nome_fornecedor|Nome Fornecedor|
 
+</details>
