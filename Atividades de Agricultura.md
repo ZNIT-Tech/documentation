@@ -5,7 +5,7 @@
 `categoria_de_emissoes`: ‘ATIVIDADES DE AGRICULTURA’
 |Campos no Supabase	|Valores GHG|
 |---|---|
-|`gwp_id`|Gás de Efeito Estufa (GEE)|
+|`[gwp_id](Lista de Gases.md)`|Gás de Efeito Estufa (GEE)|
 |`consumo_anual`|Emissões (t GEE)|
 
 . Dados complementares
