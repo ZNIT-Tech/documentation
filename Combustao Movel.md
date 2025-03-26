@@ -47,7 +47,7 @@ Campo no Supabase|Valores GHG|
 ---
 
 <details>
-  <summary><strong>Dados complementares</strong></summary>
+  <summary><h3><strong>Dados complementares</strong></summary>
 
 |Campo no Supabase|Valor|
 |---|---|
