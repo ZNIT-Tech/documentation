@@ -10,7 +10,7 @@
 
 [Emissões Casa-Trabalho](https://github.com/ZNIT-Tech/documentation/blob/main/Casa-Trabalho.md)
 
-Emissões Fugitivas
+[Emissões Fugitivas](https://github.com/ZNIT-Tech/documentation/blob/main/Emissoes%20Fugitivas.md)
 
 Energia Elétrica (Escolha de Compra)
 
