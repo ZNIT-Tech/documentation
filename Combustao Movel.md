@@ -1,6 +1,7 @@
 # Combustão Móvel
 
-## . Dados obrigatórios para cálculo
+<details>
+  <summary><strong>Dados obrigatórios para cálculo</strong></summary>
 
 ### Cálculo de emissões por tipo e ano de fabricação da frota de veículos no ano
 categoria_de_emissoes: ‘COMBUSTÃO MÓVEL 1’
@@ -40,6 +41,8 @@ Campos no Supabase|Valores GHG|
 `quant`|Consumo Usado (mensal/anual)
 
 Obs.: Inserir apenas consumo mensal ou consumo anual. Quant só é usado quando consumo_mensal e consumo_anual não forem preenchidos. Ano_do_veculo só utiliza quando ano_frota não for preenchido
+
+</details>
 
 ---
 
