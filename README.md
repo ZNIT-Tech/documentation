@@ -12,7 +12,7 @@
 
 [Emissões Fugitivas](https://github.com/ZNIT-Tech/documentation/blob/main/Emissoes%20Fugitivas.md)
 
-Energia Elétrica (Escolha de Compra)
+[Energia Elétrica (Escolha de Compra)](https://github.com/ZNIT-Tech/documentation/blob/main/Energia%20El%C3%A9trica%20(Escolha%20de%20Compra).md)
 
 Energia Elétrica (Localização)
 
