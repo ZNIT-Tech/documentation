@@ -9,6 +9,7 @@ Campos no Supabase|Valores GHG|
 `ano_frota`|Ano da frota|
 `consumo_anual`|Consumo anual de combustível|
 `consumo_mensal`|Consumo mensal de combustível|
+
 Obs.: Inserir apenas consumo mensal ou consumo anual
 
 ---
@@ -35,4 +36,5 @@ Campos no Supabase|Valores GHG|
 `consumo_anual`|Dias trabalhos no ano|
 `consumo_mensal`|Distância percorrida / mês referente a date|
 `quant`|Consumo Usado (mensal/anual)
+
 Obs.: Inserir apenas consumo mensal ou consumo anual. Quant só é usado quando consumo_mensal e consumo_anual não forem preenchidos. Ano_do_veculo só utiliza quando ano_frota não for preenchido
