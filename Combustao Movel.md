@@ -53,7 +53,7 @@ Campo no Supabase|Valores GHG|
 |---|---|
 |cnpj_fornecedor|CNPJ Fornecedor|
 |nome_fornecedor|Nome Fornecedor|
-numero_do_documento|chave da NFe|
+numero_do_documento|Chave da NFe|
 natureza_da_operao|Natureza da operação|
 cdigo_do_produto|Codigo produto|
 ncm|NCM|
