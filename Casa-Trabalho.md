@@ -1,55 +1,82 @@
 # Emissões casa-trabalho
 
-### Transporte Público
-categoria_de_emissoes: ‘TRABALHO-CASA’
+<details>
+  <summary><strong><h2>Dados obrigatórios para cálculo</strong></summary>
+
+#### Transporte Público
+
 Campo no Supabase|Valor GHG|
 |---|---|
-date|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+`categoria_de_emissoes`|_TRABALHO-CASA_|
+`date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
 id_veiculo_viagem|Tipo de transporte público|
-nro_passageiros|Número de Passageiros|
-dist_percorrida|Distância Percorrida (km) por trecho|
-consumo_mensal|Dias trabalhodos / ano|
+`nro_passageiros`|Número de Passageiros|
+`dist_percorrida`|Distância Percorrida (km) por trecho|
+`consumo_mensal`|Dias trabalhodos / ano|
 
 ---
 
-### Veiculos Particulares
+#### Veiculos Particulares
 
-categoria_de_emissoes: ‘TRABALHO-CASA 1’
 Campos no Supabase|Valores GHG|
 |---|---|
-date|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
-tipo_veiculo_frota|Tipo da frota de veículos|
-ano_frota|Ano da frota|
-consumo_anual|Dias trabalhados no ano|
-consumo_mensal|Dias trabalhados / mês |
-consumo_medio_dia|Consumo médio de combustivel / dia|
+`categoria_de_emissoes`|_TRABALHO-CASA 1_|
+``date|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+[tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Veiculos%20da%20Frota.md)|Tipo da frota de veículos|
+``ano_frota|Ano da frota|
+``consumo_anual|Dias trabalhados no ano|
+``consumo_mensal|Dias trabalhados / mês |
+``consumo_medio_dia|Consumo médio de combustivel / dia|
 
-Obs.: Inserir apenas consumo mensal ou consumo anual
+<sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
 
 ---
 
-categoria_de_emissoes: ‘TRABALHO-CASA 2’
 Campos no Supabase|Valores GHG|
 |---|---|
-date|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
-combustivel|Tipo da frota de veículos|
-consumo_anual|Dias trabalhados no ano|
-consumo_mensal|Dias trabalhados / mês |
-consumo_medio_dia|Consumo médio de combustivel / dia|
+`categoria_de_emissoes`|_TRABALHO-CASA 2_|
+`date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+[combustivel](https://github.com/ZNIT-Tech/documentation/blob/main/Combustiveis.md)|Tipo da frota de veículos|
+`consumo_anual`|Dias trabalhados no ano|
+`consumo_mensal`|Dias trabalhados / mês |
+`consumo_medio_dia`|Consumo médio de combustivel / dia|
 
-Obs.: Inserir apenas consumo mensal ou consumo anual
+<sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
 
 ---
 
-categoria_de_emissoes: ‘TRABALHO-CASA 3’
-
-Campos no Supabase|Valores GHG
+Campo no Supabase|Valor GHG
 |---|---|
-date|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
-tipo_veiculo_frota|Tipo da frota de veículos|
-ano_frota|Ano da frota|
-consumo_anual|Dias trabalhados no ano|
-consumo_mensal|Dias trabalhados / mês |
-consumo_medio_dia|Distância média / dia (km)|
+`categoria_de_emissoes`|_TRABALHO-CASA 3_
+`date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+[tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Veiculos%20da%20Frota.md)|Tipo da frota de veículos|
+`ano_frota`|Ano da frota|
+`consumo_anual`|Dias trabalhados no ano|
+`consumo_mensal`|Dias trabalhados / mês |
+`consumo_medio_dia`|Distância média / dia (km)|
 
-Obs.: Inserir apenas consumo mensal ou consumo anual
+<sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
+
+</details>
+
+---
+
+<details>
+  <summary><h2><strong>Dados complementares</strong></summary>
+
+|Campo no Supabase|Valor|
+|---|---|
+|`cnpj_fornecedor`|CNPJ Fornecedor|
+|`nome_fornecedor`|Nome Fornecedor|
+`numero_do_documento`|Chave da NFe|
+`natureza_da_operao`|Natureza da operação|
+`cdigo_do_produto`|Codigo produto|
+`ncm`|NCM|
+`un`|Unidade de medida|
+`quant`|Quantidade|
+`peso_nf`|Peso|
+`endereco_do_experdidor`|Endereço do remetente|
+`endereco_do_destinatrio`|Endereço do destinatário|
+
+
+</details>
