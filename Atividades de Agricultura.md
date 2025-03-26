@@ -1,6 +1,6 @@
 # Atividades de agricultura
 
-. Dados obrigatórios para cálculo
+### . Dados obrigatórios para cálculo
 
 `categoria_de_emissoes`: ‘ATIVIDADES DE AGRICULTURA’
 |Campos no Supabase	|Valores GHG|
@@ -10,7 +10,7 @@
 
 ***
 
-. Dados complementares
+### . Dados complementares
 
 CNPJ Fornecedor
 Nome Fornecedor
