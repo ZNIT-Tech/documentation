@@ -3,8 +3,8 @@
 <details>
   <summary><strong>Dados obrigatórios para cálculo</strong></summary>
 
-### Cálculo de emissões por tipo e ano de fabricação da frota de veículos no ano
-Campos no Supabase|Valores GHG|
+#### Cálculo de emissões por tipo e ano de fabricação da frota de veículos no ano
+Campo no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|"COMBUSTÃO MÓVEL 1"
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
@@ -18,7 +18,7 @@ Campos no Supabase|Valores GHG|
 ---
 ### Cálculo de emissões por tipo de combustível no ano
 categoria_de_emissoes: ‘COMBUSTÃO MÓVEL 2’
-Campos no Supabase|Valores GHG
+Campo no Supabase|Valores GHG
 |---|---|
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
 [combustivel](https://github.com/ZNIT-Tech/documentation/blob/main/Combustiveis.md)|Tipo de combustível|
@@ -30,7 +30,7 @@ Campos no Supabase|Valores GHG
 ---
 ### Cálculo de emissões por distância percorrida no ano
 categoria_de_emissoes: ‘COMBUSTÃO MÓVEL 3’
-Campos no Supabase|Valores GHG|
+Campo no Supabase|Valores GHG|
 |---|---|
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
 [tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Veiculos%20da%20Frota.md)|Tipo da frota de veículos|
