@@ -7,7 +7,7 @@
 
 Campo no Supabase|Valores GHG|
 |---|---|
-`categoria_de_emissoes`|COMBUSTÃO MÓVEL 1
+`categoria_de_emissoes`|_COMBUSTÃO MÓVEL 1_
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
 [tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Veiculos%20da%20Frota.md)|Tipo da frota de veículos|
 `ano_frota`|Ano da frota|
@@ -21,7 +21,7 @@ Campo no Supabase|Valores GHG|
 
 Campo no Supabase|Valores GHG
 |---|---|
-`categoria_de_emissoes`|COMBUSTÃO MÓVEL 2
+`categoria_de_emissoes`|_COMBUSTÃO MÓVEL 2_
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
 [combustivel](https://github.com/ZNIT-Tech/documentation/blob/main/Combustiveis.md)|Tipo de combustível|
 `consumo_anual`|Consumo anual|
