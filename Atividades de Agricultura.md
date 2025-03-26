@@ -8,8 +8,9 @@
 |[gwp_id](https://github.com/ZNIT-Tech/documentation/blob/main/Lista%20de%20Gases.md)|Gás de Efeito Estufa (GEE)|
 |`consumo_anual`|Emissões (t GEE)|
 
+***
 ---
 
-*** Dados complementares
+. Dados complementares
 CNPJ Fornecedor
 Nome Fornecedor
