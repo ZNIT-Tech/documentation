@@ -7,7 +7,7 @@
 Campos no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|"COMBUSTÃO MÓVEL 1"
-`date`|(yyyy-mm-dd hh:mm:ss)|
+`date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
 [tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Veiculos%20da%20Frota.md)|Tipo da frota de veículos|
 `ano_frota`|Ano da frota|
 `consumo_anual`|Consumo anual de combustível|
@@ -20,7 +20,7 @@ Obs.: Inserir apenas consumo mensal ou consumo anual
 categoria_de_emissoes: ‘COMBUSTÃO MÓVEL 2’
 Campos no Supabase|Valores GHG
 |---|---|
-`date`|(yyyy-mm-dd hh:mm:ss)|
+`date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
 [combustivel](https://github.com/ZNIT-Tech/documentation/blob/main/Combustiveis.md)|Tipo de combustível|
 `consumo_anual`|Consumo anual|
 `consumo_mensal`|Consumo referente ao mês de date|
@@ -32,7 +32,7 @@ Obs.: Inserir apenas consumo mensal ou consumo anual
 categoria_de_emissoes: ‘COMBUSTÃO MÓVEL 3’
 Campos no Supabase|Valores GHG|
 |---|---|
-`date`|(yyyy-mm-dd hh:mm:ss)|
+`date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
 [tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Veiculos%20da%20Frota.md)|Tipo da frota de veículos|
 `ano_frota`|Ano da frota|
 `ano_do_veculo`|Ano do veículo|
