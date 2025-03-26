@@ -9,7 +9,7 @@ Campo no Supabase|Valor GHG|
 |---|---|
 `categoria_de_emissoes`|_TRABALHO-CASA_|
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
-id_veiculo_viagem|Tipo de transporte público|
+[id_veiculo_viagem](https://github.com/ZNIT-Tech/documentation/blob/main/Transportes%20Publicos.md)|Tipo de transporte público|
 `nro_passageiros`|Número de Passageiros|
 `dist_percorrida`|Distância Percorrida (km) por trecho|
 `consumo_mensal`|Dias trabalhodos / ano|
@@ -21,12 +21,12 @@ id_veiculo_viagem|Tipo de transporte público|
 Campos no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_TRABALHO-CASA 1_|
-``date|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+`date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
 [tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Veiculos%20da%20Frota.md)|Tipo da frota de veículos|
-``ano_frota|Ano da frota|
-``consumo_anual|Dias trabalhados no ano|
-``consumo_mensal|Dias trabalhados / mês |
-``consumo_medio_dia|Consumo médio de combustivel / dia|
+`ano_frota`|Ano da frota|
+`consumo_anual`|Dias trabalhados no ano|
+`consumo_mensal`|Dias trabalhados / mês |
+`consumo_medio_dia`|Consumo médio de combustivel / dia|
 
 <sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
 
