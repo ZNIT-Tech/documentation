@@ -14,7 +14,7 @@
 
 ---
 
-### .Dados Complementares:
+### . Dados Complementares:
 
 |Campo no Supabase|Valor|
 |---|---|
