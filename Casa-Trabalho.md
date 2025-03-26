@@ -4,7 +4,7 @@
 categoria_de_emissoes: ‘TRABALHO-CASA’
 Campo no Supabase|Valor GHG|
 |---|---|
-date|Data da referência (yyyy-mm-dd hh:mm:ss)|
+date|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
 id_veiculo_viagem|Tipo de transporte público|
 nro_passageiros|Número de Passageiros|
 dist_percorrida|Distância Percorrida (km) por trecho|
@@ -17,7 +17,7 @@ consumo_mensal|Dias trabalhodos / ano|
 categoria_de_emissoes: ‘TRABALHO-CASA 1’
 Campos no Supabase|Valores GHG|
 |---|---|
-date|Data da referência (yyyy-mm-dd hh:mm:ss)|
+date|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
 tipo_veiculo_frota|Tipo da frota de veículos|
 ano_frota|Ano da frota|
 consumo_anual|Dias trabalhados no ano|
@@ -31,7 +31,7 @@ Obs.: Inserir apenas consumo mensal ou consumo anual
 categoria_de_emissoes: ‘TRABALHO-CASA 2’
 Campos no Supabase|Valores GHG|
 |---|---|
-date|Data da referência (yyyy-mm-dd hh:mm:ss)|
+date|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
 combustivel|Tipo da frota de veículos|
 consumo_anual|Dias trabalhados no ano|
 consumo_mensal|Dias trabalhados / mês |
@@ -45,7 +45,7 @@ categoria_de_emissoes: ‘TRABALHO-CASA 3’
 
 Campos no Supabase|Valores GHG
 |---|---|
-date|Data da referência (yyyy-mm-dd hh:mm:ss)|
+date|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
 tipo_veiculo_frota|Tipo da frota de veículos|
 ano_frota|Ano da frota|
 consumo_anual|Dias trabalhados no ano|
