@@ -6,7 +6,7 @@
 ### Cálculo de emissões por tipo e ano de fabricação da frota de veículos no ano
 Campos no Supabase|Valores GHG|
 |---|---|
-`categoria_de_emissoes`|COMBUSTÃO MÓVEL 1
+`categoria_de_emissoes`|"COMBUSTÃO MÓVEL 1"
 `date`|(yyyy-mm-dd hh:mm:ss)|
 [tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Veiculos%20da%20Frota.md)|Tipo da frota de veículos|
 `ano_frota`|Ano da frota|
