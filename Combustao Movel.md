@@ -16,7 +16,7 @@ Campo no Supabase|Valores GHG|
 <sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
 
 ---
-### Cálculo de emissões por tipo de combustível no ano
+#### Cálculo de emissões por tipo de combustível no ano
 categoria_de_emissoes: ‘COMBUSTÃO MÓVEL 2’
 Campo no Supabase|Valores GHG
 |---|---|
@@ -28,7 +28,7 @@ Campo no Supabase|Valores GHG
 <sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
 
 ---
-### Cálculo de emissões por distância percorrida no ano
+#### Cálculo de emissões por distância percorrida no ano
 categoria_de_emissoes: ‘COMBUSTÃO MÓVEL 3’
 Campo no Supabase|Valores GHG|
 |---|---|
@@ -47,7 +47,7 @@ Campo no Supabase|Valores GHG|
 ---
 
 <details>
-  <summary><h3><strong>Dados complementares</strong></summary>
+  <summary><h2><strong>Dados complementares</strong></summary>
 
 |Campo no Supabase|Valor|
 |---|---|
