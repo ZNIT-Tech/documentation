@@ -6,17 +6,17 @@
 Campos no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_ENERGIA ELETRICA (ESCOLHA DE COMPRA)_|
-`date`|Data da referência (yyyy-mm-dd hh:mm:ss)|
-`consumo_anual`|Eletricidade comprada anual (MWh)|
-`consumo_mensal`|Eletricidade comprada / mês referente a date (MWh)|
+`date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+`consumo_anual`|Eletricidade comprada anual _(MWh)_|
+`consumo_mensal`|Eletricidade comprada / mês referente a date _(MWh)_|
 [id_fonte_geracao_energia](https://github.com/ZNIT-Tech/documentation/blob/main/Fonte%20de%20Geracao%20de%20Energia.md)|Fonte de Geração de Energia|
 [id_combustivel_termoeletrico](https://github.com/ZNIT-Tech/documentation/blob/main/Combustiveis%20Termoeletricos.md)|Combustível (caso fonte seja termoelétrica)|
-`fator_co2`|Fator de CO2 fornecido pelo gerador (tCO2 / MWh)|
-`fator_ch4`|Fator de CH4 fornecido pelo gerador (tCH4 / MWh)|
-`fator_n2o`|Fator de N2O fornecido pelo gerador (tN2O / MWh)|
+`fator_co2`|Fator de CO2 fornecido pelo gerador _(tCO2 / MWh)_|
+`fator_ch4`|Fator de CH4 fornecido pelo gerador _(tCH4 / MWh)_|
+`fator_n2o`|Fator de N2O fornecido pelo gerador _(tN2O / MWh)_|
 `fator_co2_bio`|Fator de CO2 biogênico|
-`eficiencia_recuperacao`|Eficiência da planta geradora (decimal)|
-`fator_personalizado`|Utilizar fator provido|
+`eficiencia_recuperacao`|Eficiência da planta geradora _(decimal <= 1.0)_|
+`fator_personalizado`|Utilizar fator provido _(true/false)_|
 
 <sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual. Eficiência padrão: 1.0 = 100%</em></sub>
 
