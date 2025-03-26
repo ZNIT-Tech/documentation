@@ -26,8 +26,8 @@ Obs.: Inserir apenas consumo mensal ou consumo anual
 ---
 ### Cálculo de emissões por distância percorrida no ano
 categoria_de_emissoes: ‘COMBUSTÃO MÓVEL 3’
-|---|---|
 Campos no Supabase|Valores GHG|
+|---|---|
 `date`|(yyyy-mm-dd hh:mm:ss)|
 [tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Veiculos%20da%20Frota.md)|Tipo da frota de veículos|
 `ano_frota`|Ano da frota|
