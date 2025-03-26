@@ -41,6 +41,8 @@ Campos no Supabase|Valores GHG|
 
 Obs.: Inserir apenas consumo mensal ou consumo anual. Quant só é usado quando consumo_mensal e consumo_anual não forem preenchidos. Ano_do_veculo só utiliza quando ano_frota não for preenchido
 
+---
+
 ### . Dados complementares
 |Campo no Supabase|Valor|
 |---|---|
