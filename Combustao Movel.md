@@ -13,7 +13,7 @@ Campos no Supabase|Valores GHG|
 `consumo_anual`|Consumo anual de combustível|
 `consumo_mensal`|Consumo mensal de combustível|
 
-Obs.: Inserir apenas consumo mensal ou consumo anual
+sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
 
 ---
 ### Cálculo de emissões por tipo de combustível no ano
