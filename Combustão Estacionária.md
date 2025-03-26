@@ -1,6 +1,6 @@
 # Combustão Estacionária
 
-. Dados obrigatórios para cálculo
+### . Dados obrigatórios para cálculo
 
 `categoria_de_emissoes`: ‘COMBUSTÃO ESTACIONÁRIA’
 
@@ -12,6 +12,8 @@
 |`un`|Unidade|
 |`consumo_anual`|Quantidade Consumida|
 
-.Dados Complementares:
+---
+
+### .Dados Complementares:
 CNPJ Fornecedor
 Nome Fornecedor
