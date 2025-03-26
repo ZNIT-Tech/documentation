@@ -9,7 +9,6 @@
 |`consumo_anual`|Emissões (t GEE)|
 
 ***
----
 
 . Dados complementares
 CNPJ Fornecedor
