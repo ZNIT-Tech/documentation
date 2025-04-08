@@ -1,0 +1,11 @@
+# Lista de Transporte Públicos
+
+ID  | Transporte
+---|---
+1   | Ônibus municipal
+2   | Ônibus de viagem
+3   | Balsa de passageiros
+4   | Balsa de veículos
+5   | Balsa híbrida veículos e passageiros
+6   | Trem
+7   | Metrô
