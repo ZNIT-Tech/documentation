@@ -1,1 +1,0 @@
-# Resíduos Sólidos da Operação
