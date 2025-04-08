@@ -18,7 +18,7 @@
 
 [Processos Industriais](https://github.com/ZNIT-Tech/documentation/blob/main/Processos%20Industriais.md)
 
-Resíduos Sólidos da Operação
+[Resíduos Sólidos da Operação](https://github.com/ZNIT-Tech/documentation/blob/main/Residuos%20Solidos%20da%20Operacao.md)
 
 [Transp. & Distribuição (Downstream)](https://github.com/ZNIT-Tech/documentation/blob/main/Transporte%20e%20Distribuicao%20(Downstream).md)
 
