@@ -3,6 +3,18 @@
 <details>
   <summary><strong><h2>Dados obrigatórios para cálculo</strong></summary>
 
+### Gases não quioto
+
+|Campos no Supabase|Valores GHG|
+|---|---|
+`categoria_de_emissoes`|_EMISSOES FUGITIVAS - NAO QUIOTO_|
+[gwp_id](https://github.com/ZNIT-Tech/documentation/blob/main/Gases.md)|Gás ou composto|
+`uni_novas_carga`|Unidades Novas Carga _(kg)_
+`uni_novas_capacidade`|Unidades Novas Capacidade _(kg)_
+`uni_exist_recarga`|Unidade Existentes Recarga _(kg)_
+`uni_disp_capacidade`|Unidades Dispensadas Capacidade _(kg)_
+`uni_disp_recup`|Unidades Dispensadas Recuperada _(kg)_
+
 ### Abordagem por estágio do ciclo de vida
 
 |Campos no Supabase|Valores GHG|
