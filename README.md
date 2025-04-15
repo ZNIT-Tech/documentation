@@ -8,6 +8,8 @@
 
 [Combustão Móvel](https://github.com/ZNIT-Tech/documentation/blob/main/Combustao%20Movel.md)
 
+[Efluentes](https://github.com/ZNIT-Tech/documentation/blob/main/Efluentes.md)
+
 [Emissões Casa-Trabalho](https://github.com/ZNIT-Tech/documentation/blob/main/Casa-Trabalho.md)
 
 [Emissões Fugitivas](https://github.com/ZNIT-Tech/documentation/blob/main/Emissoes%20Fugitivas.md)
