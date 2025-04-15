@@ -20,6 +20,8 @@
 
 [Resíduos Sólidos da Operação](https://github.com/ZNIT-Tech/documentation/blob/main/Residuos%20Solidos%20da%20Operacao.md)
 
+[Resíduos IPCC]((https://github.com/ZNIT-Tech/documentation/blob/main/Residuos%20-%20IPCC.md#dados-obrigat%C3%B3rios-para-c%C3%A1lculo))
+
 [Transp. & Distribuição (Downstream)](https://github.com/ZNIT-Tech/documentation/blob/main/Transporte%20e%20Distribuicao%20(Downstream).md)
 
 [Transp. & Distribuição (Upstream)](https://github.com/ZNIT-Tech/documentation/blob/main/Transporte%20e%20Distribuicao%20(Upstream).md)
