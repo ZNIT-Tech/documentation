@@ -9,6 +9,16 @@
 |[gwp_id](https://github.com/ZNIT-Tech/documentation/blob/main/Gases.md)|Gás de Efeito Estufa (GEE)|
 |`consumo_anual`|Emissões _(t GEE)_|
 
+### Atividade Agricola - IPCC
+
+|Campos no Supabase|Valores GHG|
+|---|---|
+`categoria_de_emissoes`|_ATIVIDADE AGRICOLA - IPCC_|
+`consumo_mensal`|Consumo Mensal
+`percent_n`|Percentual de N
+`fator_n2o`|Fator de N2O
+`fator_co2`|Fator de CO2
+
 </details>
 
 ---
