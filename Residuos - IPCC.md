@@ -6,9 +6,9 @@
 |Campo no Supabase	|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_RESIDUOS - IPCC_|
-|`consumo_mensal`|Consumo Mensal|
-|`destino_residuo_ipcc`|Emissões _(t GEE)_|
-|`residuo_ipcc`|Emissões _(t GEE)_|
+|`consumo_mensal`|Quantidade de Resíduos|
+|[destino_residuo_ipcc](https://github.com/ZNIT-Tech/documentation/blob/main/Destino%20Residuos.md)|Destino de Residuos|
+|[residuo_ipcc](https://github.com/ZNIT-Tech/documentation/blob/main/Residuos.md)|Tipo de Resíduo|
 |`un`|Unidade de medida (_t_ ou _kg_)|
 
 </details>
