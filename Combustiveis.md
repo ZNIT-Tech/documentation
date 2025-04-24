@@ -60,4 +60,5 @@
 56|Solventes|
 57|Turfa|
 58|Xisto Betuminoso e Areias Betuminosas|
-
+59|Gasolina Motor (sin mezcla bioetanol) (kg CO2/gal)|
+60|GLP (Colombia) (kg CO2/m3)|
