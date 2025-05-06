@@ -8,6 +8,7 @@
 |Campos no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_EMISSOES FUGITIVAS - NAO QUIOTO_|
+`escopo`|4| 
 [gwp_id](https://github.com/ZNIT-Tech/documentation/blob/main/Gases.md)|Gás ou composto|
 `uni_novas_carga`|Unidades Novas Carga _(kg)_
 `uni_novas_capacidade`|Unidades Novas Capacidade _(kg)_
