@@ -14,10 +14,10 @@
 |Campos no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_ATIVIDADE AGRICOLA - IPCC_|
-`consumo_mensal`|Consumo Mensal
-`percent_n`|Percentual de N
-`fator_n2o`|Fator de N2O
-`fator_co2`|Fator de CO2
+`consumo_mensal`|Consumo Mensal _(kg)_
+`percent_n`|Percentual de N _(ex.: 23)_
+`fator_n2o`|Fator de N2O  _(kg)_
+`fator_co2`|Fator de CO2 _(kg)_
 
 </details>
 
