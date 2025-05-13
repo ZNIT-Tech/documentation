@@ -4,6 +4,10 @@
 
 [Atividades de Agricultura](https://github.com/ZNIT-Tech/documentation/blob/main/Atividades%20de%20Agricultura.md)
 
+[Bens de Capital](https://github.com/ZNIT-Tech/documentation/blob/main/Bens%20de%20Capital.md)
+
+[Bens e Serviços Comprados]([url](https://github.com/ZNIT-Tech/documentation/blob/main/Bens%20e%20Servicos%20Comprados.md))
+
 [Combustão Estacionária](https://github.com/ZNIT-Tech/documentation/blob/main/Combust%C3%A3o%20Estacion%C3%A1ria.md)
 
 [Combustão Móvel](https://github.com/ZNIT-Tech/documentation/blob/main/Combustao%20Movel.md)
@@ -27,5 +31,9 @@
 [Transp. & Distribuição (Downstream)](https://github.com/ZNIT-Tech/documentation/blob/main/Transporte%20e%20Distribuicao%20(Downstream).md)
 
 [Transp. & Distribuição (Upstream)](https://github.com/ZNIT-Tech/documentation/blob/main/Transporte%20e%20Distribuicao%20(Upstream).md)
+
+[Tratamento e fim de vida de produto](https://github.com/ZNIT-Tech/documentation/blob/main/Tratamento%20e%20fim%20de%20vida%20de%20produto.md)
+
+[Uso de bens e serviços vendidos](https://github.com/ZNIT-Tech/documentation/blob/main/Uso%20de%20bens%20e%20servicos%20vendidos.md)
 
 [Viagens a Negócios](https://github.com/ZNIT-Tech/documentation/blob/main/Viagens%20a%20Neg%C3%B3cios.md)
