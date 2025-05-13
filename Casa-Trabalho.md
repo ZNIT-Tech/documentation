@@ -26,7 +26,7 @@ Campos no Supabase|Valores GHG|
 `ano_frota`|Ano da frota|
 `consumo_anual`|Dias trabalhados no ano|
 `consumo_mensal`|Dias trabalhados / mês |
-`consumo_medio_dia`|Consumo médio de combustivel / dia|
+`consumo_medio_dia`|Consumo médio de combustivel / dia _(litros/m³)_|
 
 <sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
 
@@ -39,7 +39,7 @@ Campos no Supabase|Valores GHG|
 [combustivel](https://github.com/ZNIT-Tech/documentation/blob/main/Combustiveis.md)|Tipo da frota de veículos|
 `consumo_anual`|Dias trabalhados no ano|
 `consumo_mensal`|Dias trabalhados / mês |
-`consumo_medio_dia`|Consumo médio de combustivel / dia|
+`consumo_medio_dia`|Consumo médio de combustivel / dia _(litros/m³)_|
 
 <sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
 
@@ -53,7 +53,7 @@ Campo no Supabase|Valor GHG
 `ano_frota`|Ano da frota|
 `consumo_anual`|Dias trabalhados no ano|
 `consumo_mensal`|Dias trabalhados / mês |
-`consumo_medio_dia`|Distância média / dia (km)|
+`consumo_medio_dia`|Distância média / dia _(km)_|
 
 <sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
 
