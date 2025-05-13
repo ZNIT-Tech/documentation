@@ -168,12 +168,12 @@ id | gas                                | familia_top | gwp    | referencia
 164 | CFC-113                           | CFC         | 5820   | IPCC 2013
 165 | CFC-114                           | CFC         | 8590   | IPCC 2013
 166 | CFC-115                           | CFC         | 7670   | IPCC 2013
-167 | Halon-1301                        | null        | 6290   | IPCC 2013
-168 | Halon-1211                        | null        | 1750   | IPCC 2013
-169 | Halon-2402                        | null        | 1470   | IPCC 2013
-170 | Tetracloreto de carbono (CCl4)    | null        | 1730   | IPCC 2013
-171 | Bromometano (CH3Br)               | null        | 2      | IPCC 2013
-172 | Methyl chloroform (CH3CCl3)       | null        | 160    | IPCC 2013
+167 | Halon-1301                        | -        | 6290   | IPCC 2013
+168 | Halon-1211                        | -        | 1750   | IPCC 2013
+169 | Halon-2402                        | -        | 1470   | IPCC 2013
+170 | Tetracloreto de carbono (CCl4)    | -        | 1730   | IPCC 2013
+171 | Bromometano (CH3Br)               | -        | 2      | IPCC 2013
+172 | Methyl chloroform (CH3CCl3)       | -        | 160    | IPCC 2013
 173 | HCFC-21                           | HCFC        | 148    | IPCC 2013
 174 | HCFC-22 (R22)                     | HCFC        | 1760   | IPCC 2013
 175 | HCFC-123                          | HCFC        | 79     | IPCC 2013
