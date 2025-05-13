@@ -6,7 +6,7 @@
 
 [Bens de Capital](https://github.com/ZNIT-Tech/documentation/blob/main/Bens%20de%20Capital.md)
 
-[Bens e Serviços Comprados]([url](https://github.com/ZNIT-Tech/documentation/blob/main/Bens%20e%20Servicos%20Comprados.md))
+[Bens e Serviços Comprados](https://github.com/ZNIT-Tech/documentation/blob/main/Bens%20e%20Servicos%20Comprados.md)
 
 [Combustão Estacionária](https://github.com/ZNIT-Tech/documentation/blob/main/Combust%C3%A3o%20Estacion%C3%A1ria.md)
 
