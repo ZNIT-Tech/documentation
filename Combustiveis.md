@@ -62,3 +62,8 @@
 58|Xisto Betuminoso e Areias Betuminosas|
 59|Gasolina Motor (sin mezcla bioetanol) _(kg CO2/gal)_|
 60|GLP (Colombia) _(kg CO2/m3)_|
+61|Gasolina E10 (Mezcla comercial) _(kg CO2/gal)_|
+62|Biometanol _(litros)_|
+63|HVO (diesel verde) _(litros)_|
+64|Metanol _(litros)_|
+65|Bioquerosene (SAF) _(litros)_|
