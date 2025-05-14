@@ -35,8 +35,8 @@ Campos no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_EMISSOES FUGITIVAS 2_|
 [gwp_id](https://github.com/ZNIT-Tech/documentation/blob/main/Gases.md)|Gás ou composto|
-`uni_novas_capacidade`|VE = Variação no estoque|
-`uni_exist_recarga`|T = Quantidade transferida|
+`uni_novas_capacidade`|VE = Variação no estoque _(kg)_|
+`uni_exist_recarga`|T = Quantidade transferida _(kg)_|
 `uni_disp_capacidade`|MC = Mudança de capacidade _(kg)_ |
 
 
