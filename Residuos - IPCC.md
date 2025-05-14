@@ -8,7 +8,7 @@
 |---|---|
 `categoria_de_emissoes`|_RESÍDUOS SÓLIDOS_|
 [id_uf](https://github.com/ZNIT-Tech/documentation/blob/main/Municipios.md)|
-|`residuos_aterro`|Quantidade de Resíduos|
+|`residuos_aterro`|Quantidade de Resíduos _(t)_|
 |`composicao_papelao`|Composição em decimal (ex: 0.5)|
 |`composicao_textil`|Composição em decimal (1.0 = 100%)|
 |`composicao_alimentar`|Composição em decimal (1.0 = 100%)|
