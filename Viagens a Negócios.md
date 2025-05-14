@@ -41,8 +41,8 @@ Campo no Supabase|Valores GHG|
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
 [tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Veiculos%20da%20Frota.md)|Tipo da frota de veículos|
 `ano_frota`|Ano da frota|
-`consumo_anual`|Consumo anual de combustível|
-`consumo_mensal`|Consumo mensal de combustível|
+`consumo_anual`|Consumo anual de combustível _(litros)_|
+`consumo_mensal`|Consumo mensal de combustível _(litros)_|
 
 <sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
 
@@ -69,9 +69,8 @@ Campo no Supabase|Valores GHG|
 [tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Veiculos%20da%20Frota.md)|Tipo da frota de veículos|
 `ano_frota`|Ano da frota|
 `ano_do_veculo`|Ano do veículo|
-`consumo_anual`|Dias trabalhos no ano|
-`consumo_mensal`|Distância percorrida / mês referente a date|
-`quant`|Consumo Usado (mensal/anual)
+`consumo_anual`|Distância percorrida / ano (km)|
+`consumo_mensal`|Distância percorrida / mês referente a date _(km)_|
 
 <sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual. Quant só é usado quando consumo_mensal e consumo_anual não forem preenchidos. Ano_do_veculo só utiliza quando ano_frota não for preenchido</em></sub>
 
