@@ -44,6 +44,27 @@ Campo no Supabase|Valores GHG|
 
 <sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual. Quant só é usado quando consumo_mensal e consumo_anual não forem preenchidos. Ano_do_veculo só utiliza quando ano_frota não for preenchido</em></sub>
 
+#### Cálculo de emissões de gases de efeito estufa por transporte de carga por consumo de combustível no ano
+
+Campo no Supabase|Valores GHG
+|---|---|
+`categoria_de_emissoes`|_COMBUSTÃO MÓVEL - HIDROVIARIO_
+`date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+[combustivel](https://github.com/ZNIT-Tech/documentation/blob/main/Combustiveis.md)|Tipo de combustível|
+`consumo_anual`|Consumo anual _(litros)_|
+`consumo_mensal`|Consumo referente ao mês de date _(litros)_|
+
+<sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
+
+#### Cálculo de emissões de gases de efeito estufa por transporte aéreo no ano
+
+Campo no Supabase|Valores GHG
+|---|---|
+`categoria_de_emissoes`|_COMBUSTÃO MÓVEL - AEREO_
+`date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+[combustivel](https://github.com/ZNIT-Tech/documentation/blob/main/Combustiveis.md)|Tipo de combustível|
+`consumo_anual`|Consumo anual _(litros)_|
+
 </details>
 
 ---
