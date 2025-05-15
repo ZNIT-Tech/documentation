@@ -74,6 +74,13 @@ Campo no Supabase|Valores GHG|
 
 <sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual. Quant só é usado quando consumo_mensal e consumo_anual não forem preenchidos. Ano_do_veculo só utiliza quando ano_frota não for preenchido</em></sub>
 
+#### Cálculo de emissões de pernoite em viagens a negócios
+
+Campo no Supabase|Valores GHG|
+|---|---|
+`categoria_de_emissoes`|_VIAGENS A NEGOCIO - PERNOITE_
+`dias_trabalhados`|Número de quartos|
+`consumo_mensal`|Número de noites|
 
 </details>
 
