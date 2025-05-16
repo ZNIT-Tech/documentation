@@ -11,7 +11,7 @@
 `quant`|MFC
 `fator_metano_dbo_final`|DBO Forte
 `ch4_recuperado`|Maximo CH4
-`consumo_anual`|Voluma Anual
+`consumo_anual`|Voluma Anual _([m³/ano])_
 
 ### Efluentes - IPCC (Com quantidade de funcionários)
 
