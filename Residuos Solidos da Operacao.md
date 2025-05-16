@@ -26,10 +26,10 @@ Campo no Supabase|Valores GHG|
 |Campo no Supabase	|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_RESIDUOS - IPCC_|
-|`consumo_mensal`|Quantidade de Resíduos|
+|`consumo_mensal`|Quantidade de Resíduos _(t)_|
 |[destino_residuo_ipcc](https://github.com/ZNIT-Tech/documentation/blob/main/Destino%20Residuos.md)|Destino de Residuos|
 |[residuo_ipcc](https://github.com/ZNIT-Tech/documentation/blob/main/Residuos.md)|Tipo de Resíduo|
-|`un`|Unidade de medida (_t_ ou _kg_)|
+|`un`|Unidade de medida _(t ou kg)_|
 
 
 </details>
