@@ -10,7 +10,7 @@
 |[combustivel](https://github.com/ZNIT-Tech/documentation/blob/main/Combustiveis.md)|Combustível Utilizado|
 |[id_setor](https://github.com/ZNIT-Tech/documentation/blob/main/Setores.md)|Setor do fator de emissão|
 |`un`|Unidade|
-|`consumo_anual`|Quantidade Consumida _(t/m³)_|
+|`consumo_anual`|Quantidade Consumida _(t ou m³)_|
 
 </details>
 
