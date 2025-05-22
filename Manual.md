@@ -7,8 +7,9 @@ Campo no Supabase|Valor GHG|
 `categoria_de_emissoes`|_(Ver lista abaixo)_|
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
 `quant`|Emissão Total _(t)_|
-`fator_co2`|Fator de Emissão|
+`fator_co2*`|Fator de Emissão*|
 `escopo`|Escopo da Categoria|
+<sub><em>Obs.: Valor não obrigatório</em></sub>
 
 #### Categorias de Emissões
 
