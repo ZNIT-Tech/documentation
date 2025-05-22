@@ -37,3 +37,6 @@
 [Uso de bens e serviços vendidos](https://github.com/ZNIT-Tech/documentation/blob/main/Uso%20de%20bens%20e%20servicos%20vendidos.md)
 
 [Viagens a Negócios](https://github.com/ZNIT-Tech/documentation/blob/main/Viagens%20a%20Neg%C3%B3cios.md)
+
+### Inserção Manual:
+[Manual](https://github.com/ZNIT-Tech/documentation/blob/main/Manual.md)
