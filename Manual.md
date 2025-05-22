@@ -9,7 +9,8 @@ Campo no Supabase|Valor GHG|
 `quant`|Emissão Total _(t)_|
 `fator_co2*`|Fator de Emissão*|
 `escopo`|Escopo da Categoria|
-<sub><em>Obs.: Valor não obrigatório</em></sub>
+
+<sub><em>Obs.: *Valor não obrigatório</em></sub>
 
 #### Categorias de Emissões
 
