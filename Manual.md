@@ -1,6 +1,4 @@
-# Emissões casa-trabalho
-
-<details>
+# Inserções Manuais
 
 #### Variaveis
 
