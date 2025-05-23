@@ -79,8 +79,8 @@ Campo no Supabase|Valores GHG|
 Campo no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_VIAGENS A NEGOCIO - PERNOITE_
-`dias_trabalhados`|Número de quartos|
-`consumo_mensal`|Número de noites|
+`dias_trabalhados`|Número de noites|
+`consumo_mensal`|Número de quartos|
 
 </details>
 
