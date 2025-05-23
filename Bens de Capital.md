@@ -6,8 +6,13 @@
 |Campo no Supabase	|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_BENS DE CAPITAL_|
-|[gwp_id](https://github.com/ZNIT-Tech/documentation/blob/main/Gases.md)|Gás de Efeito Estufa (GEE)|
-|`consumo_anual`|Emissões _(t GEE)_|
+|`quant`|Peso do produto _(t ou kg)_|
+|`unidade`|Unidade de medida do peso _(t ou kg)_|
+|`*fator_de_emisso_bruto`|*Fator de emissão bruto|
+|`*fator_correcao_do_fator_emissao`|*Fator de correção de fator de emissao|
+|`*fator_conv_un_medida`|*Fator de conversar de unidade de medida|
+
+<sub><em>Obs.: *Valor não obrigatórios, inserir apenas caso possua</em></sub>
 
 </details>
 
