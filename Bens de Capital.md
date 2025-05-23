@@ -6,6 +6,7 @@
 |Campo no Supabase	|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_BENS DE CAPITAL_|
+|`id_bens_capital`|ID da tabela de bens de capital|
 |`quant`|Peso do produto _(t ou kg)_|
 |`unidade`|Unidade de medida do peso _(t ou kg)_|
 |`*fator_de_emisso_bruto`|*Fator de emissão bruto|
