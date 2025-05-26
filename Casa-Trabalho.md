@@ -57,6 +57,15 @@ Campo no Supabase|Valor GHG
 
 <sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
 
+---
+
+Campo no Supabase|Valor GHG
+|---|---|
+`categoria_de_emissoes`|_TRABALHO-CASA - REMOTO_
+`date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+`nro_passageiros`|Numero de colaboradores em trabalho remoto|
+`dias_trabalhados`|Dias trabalhados na semana em regime remoto|
+
 </details>
 
 ---
