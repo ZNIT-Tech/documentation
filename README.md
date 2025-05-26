@@ -22,6 +22,8 @@
 
 [Energia Elétrica (Localização)](https://github.com/ZNIT-Tech/documentation/blob/main/Energia%20Eletrica%20(Localizacao).md)
 
+[Energia Elétrica (Sistema Isolado)](https://github.com/ZNIT-Tech/documentation/blob/main/Compra%20Energia%20-%20Sistema%20Isolado.md)
+
 [Processos Industriais](https://github.com/ZNIT-Tech/documentation/blob/main/Processos%20Industriais.md)
 
 [Resíduos Sólidos da Operação](https://github.com/ZNIT-Tech/documentation/blob/main/Residuos%20Solidos%20da%20Operacao.md)
