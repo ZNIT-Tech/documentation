@@ -65,6 +65,9 @@ Campo no Supabase|Valor GHG
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
 `nro_passageiros`|Numero de colaboradores em trabalho remoto|
 `dias_trabalhados`|Dias trabalhados na semana em regime remoto|
+`consumo_anual`|Dias trabalhados no ano*|
+
+<sub><em>Obs.: *Caso _consumo_anual_ seja 0 ou _NULL_, valor padrão considerado é 230 </em></sub>
 
 </details>
 
