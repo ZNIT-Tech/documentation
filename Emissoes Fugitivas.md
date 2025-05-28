@@ -47,7 +47,7 @@ Campos no Supabase|Valores GHG|
 `categoria_de_emissoes`|_EMISSOES FUGITIVAS 3_|
 [gwp_id](https://github.com/ZNIT-Tech/documentation/blob/main/Gases.md)|Gás ou composto|
 [id_equip_refrigerador](https://github.com/ZNIT-Tech/documentation/blob/main/Equipamento%20de%20Refrigeracao.md)| Tipo de Equipamento|
-`uni_novas_capacidade`|Carga das Unidades Novas _(kg)_|
+`uni_novas_carga`|Carga das Unidades Novas _(kg)_|
 `uni_exist_recarga`|Capacidade Unidades em Operação _(kg)_|
 `uni_disp_capacidade`|Capacidade Unidades Dispensadas _(kg)_|
 
