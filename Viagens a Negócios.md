@@ -27,7 +27,7 @@ Campo no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_VIAGENS A NEGOCIOS_
 `date`|Data da referência
-[tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Transportes%20Publicos.md)|Tipo de transporte público|
+[id_veiculo_viagem](https://github.com/ZNIT-Tech/documentation/blob/main/Transportes%20Publicos.md)|Tipo de transporte público|
 `nro_passageiros`|Quantidade de Passageiros|
 `dist_percorrida`|Distância Percorrida _(km)_|
 
