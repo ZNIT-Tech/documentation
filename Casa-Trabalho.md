@@ -94,8 +94,6 @@ Campo no Supabase|Valor GHG
 
 <sub><em>Obs.: *Caso _consumo_anual_ seja 0 ou _NULL_, valor padrão considerado é 230 </em></sub>
 
-</details>
-
 ---
 
 Campo no Supabase|Valor GHG
