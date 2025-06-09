@@ -16,6 +16,18 @@ Campo no Supabase|Valor GHG|
 
 ---
 
+Campo no Supabase|Valor GHG|
+|---|---|
+`categoria_de_emissoes`|_TRABALHO-CASA - ANUAL_|
+`date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+[id_veiculo_viagem](https://github.com/ZNIT-Tech/documentation/blob/main/Transportes%20Publicos.md)|Tipo de transporte público|
+`nro_passageiros`|Número de Passageiros|
+`dist_percorrida`|Distância Percorrida _(km)_ por trecho|
+`dias_trabalhados`|Dias trabalhodos|
+`meses_trabalhados`|Meses trabalhodos|
+
+---
+
 #### Veiculos Particulares
 
 Campos no Supabase|Valores GHG|
@@ -47,7 +59,7 @@ Campos no Supabase|Valores GHG|
 
 Campo no Supabase|Valor GHG
 |---|---|
-`categoria_de_emissoes`|_TRABALHO-CASA 3_
+`categoria_de_emissoes`|_TRABALHO-CASA 3_ |
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
 [tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Veiculos%20da%20Frota.md)|Tipo da frota de veículos|
 `ano_frota`|Ano da frota|
@@ -61,13 +73,38 @@ Campo no Supabase|Valor GHG
 
 Campo no Supabase|Valor GHG
 |---|---|
-`categoria_de_emissoes`|_TRABALHO-CASA - REMOTO_
+`categoria_de_emissoes`|_TRABALHO-CASA 3 - ANUAL_ |
+`date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+[tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Veiculos%20da%20Frota.md)|Tipo da frota de veículos|
+`ano_frota`|Ano da frota|
+`dias_trabalhados`|Dias trabalhados na semana|
+`meses_trabalhados`|Meses trabalhados no ano|
+`consumo_medio_dia`|Distância média / dia _(km)_|
+
+<sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
+
+---
+Campo no Supabase|Valor GHG
+|---|---|
+`categoria_de_emissoes`|_TRABALHO-CASA - REMOTO_ |
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
 `nro_passageiros`|Numero de colaboradores em trabalho remoto|
 `dias_trabalhados`|Dias trabalhados na semana em regime remoto|
 `consumo_anual`|Dias trabalhados no ano*|
 
 <sub><em>Obs.: *Caso _consumo_anual_ seja 0 ou _NULL_, valor padrão considerado é 230 </em></sub>
+
+</details>
+
+---
+
+Campo no Supabase|Valor GHG
+|---|---|
+`categoria_de_emissoes`|_TRABALHO-CASA - REMOTO - ANUAL_ |
+`date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+`nro_passageiros`|Numero de colaboradores em trabalho remoto|
+`dias_trabalhados`|Dias trabalhados na semana em regime remoto|
+`meses_trabalhados`|Meses trabalhados em regime remoto|
 
 </details>
 
