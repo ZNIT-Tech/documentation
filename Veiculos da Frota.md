@@ -49,3 +49,5 @@
 | 45 | Van elétrica classe III (1,74 a 3,5 toneladas) |
 | 46 | Van elétrica média (até 3,5 toneladas) |
 | 47 | Van plug in média (até 3,5 toneladas) |
+| 48 | Automovel a gasolina (Colombia) |
+| 49 | GLP (Colombia) |
