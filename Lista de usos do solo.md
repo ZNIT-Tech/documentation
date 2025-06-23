@@ -1,4 +1,5 @@
 | ID | Tipo de Uso                               |
+|---|---|
 | 1  | Cultura anual                             |
 | 2  | Cultura de cana                           |
 | 3  | Cultura perene                            |
