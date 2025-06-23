@@ -7,9 +7,9 @@ Campo no Supabase|Valor GHG|
 |---|---|
 `categoria_de_emissoes`|_MUDANCA USO SOLO_|
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
-`id_estado`|id_estado|
-`id_uso_anterior_solo`|id_uso_anterior_solo|
-`id_uso_posterior_solo`|id_uso_posterior_solo|
+[id_estado](https://github.com/ZNIT-Tech/documentation/blob/main/Estados.md)|id_estado|
+[id_uso_anterior_solo](https://github.com/ZNIT-Tech/documentation/blob/main/Lista%20de%20usos%20do%20solo.md)|id_uso_anterior_solo|
+[id_uso_posterior_solo](https://github.com/ZNIT-Tech/documentation/blob/main/Lista%20de%20usos%20do%20solo.md)|id_uso_posterior_solo|
 `id_bioma_anterior`|id_bioma_anterior|
 `consumo_mensal `|Área de MUS _(ha)_|
 `classificacao_ano `|Tipo de vegetacao anterior|
