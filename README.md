@@ -12,6 +12,8 @@
 
 [Emissões Fugitivas](https://github.com/ZNIT-Tech/documentation/blob/main/Emissoes%20Fugitivas.md)
 
+[Mudança no Uso do Solo](https://github.com/ZNIT-Tech/documentation/blob/main/Mudanca%20no%20Uso%20do%20Solo.md)
+
 [Processos Industriais](https://github.com/ZNIT-Tech/documentation/blob/main/Processos%20Industriais.md)
 
 #### Escopo 2:
