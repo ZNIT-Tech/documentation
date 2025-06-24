@@ -18,7 +18,7 @@ Campo no Supabase|Valor GHG|
 `efluente_tratamento_aplicado`|Dados primarios sobre estoque de carbono|
 `ch4_recuperado`|Estoque de carbono do solo _(tC/ha)_|
 `fator_n2o_n`| Estoque de carbono da biomassa _(tC/ha)_|
-`efluente_unidade`|Detalhamento da Vegetacao|
+[efluente_unidade](https://github.com/ZNIT-Tech/documentation/blob/main/Vegetacoes.md)|Detalhamento da Vegetacao|
 
 </details>
 
