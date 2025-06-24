@@ -1,5 +1,5 @@
 <details>
-Sigla/Nome da fitofisionomia - Bioma Amazônia
+<summary> Amazônia </summary>
 
 Floresta Ombrófila Aberta Aluvial
 Floresta Ombrófila Aberta Terras Baixas
@@ -49,8 +49,7 @@ Campinarana
 </details>
 
 <details>
-Fitofisionomias, MCTI, (2020)
-Sigla/Nome da fitofisionomia - Bioma Cerrado
+<summary> Cerrado </summary>
 
 Floresta Ombrófila Aberta Aluvial
 Floresta Ombrófila Aberta das Terras Baixas
@@ -146,8 +145,7 @@ Savana Estépica Parque
 </details>
 
 <details>
-Fitofisionomias, MCTI, (2020)
-Sigla/Nome da fitofisionomia - Bioma Mata Atlântica
+<summary> Mata Atlântica </summary>
 
 Floresta Ombrófila Aberta Aluvial
 Floresta Ombrófila Aberta Terras baixas
@@ -207,9 +205,9 @@ Savana- Estépica florestada
 Savana- Estépica Gramíneo-Lenhosa
 Contato Savana-Estépica/Floresta Estacional
 </details>
+
 <details>
-Fitofisionomias, MCTI, (2020)
-Sigla/Nome da fitofisionomia - Bioma Caatinga
+<summary>Caatinga</summary>
 
 Floresta Ombrófila Aberta Aluvial
 Floresta Ombrófila Aberta Terras Baixas
@@ -244,9 +242,9 @@ Savana Estépica Gramíneo Lenhosa
 Contato Savana/Floresta Estacional
 Savana Estépica Parque
 </details>
+
 <details>
-Fitofisionomias, MCTI, (2020)
-Sigla/Nome da fitofisionomia - Bioma Pampa
+<summary>Pampa </summary>
 
 Floresta Estacional Decidual Aluvial
 Floresta Estacional Decidual Terras baixas
@@ -284,8 +282,7 @@ Savana Estépica Parque
 </details>
 
 <details>
-Fitofisionomias, MCTI, (2020)
-<summary>Sigla/Nome da fitofisionomia - Bioma Pantanal</summary>
+<summary>Pantanal</summary>
 
 Floresta Estacional Decidual Aluvial
 Floresta Estacional Decidual Terras baixas
