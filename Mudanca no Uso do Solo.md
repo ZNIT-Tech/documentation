@@ -12,9 +12,9 @@ Campo no Supabase|Valor GHG|
 [id_uso_posterior_solo](https://github.com/ZNIT-Tech/documentation/blob/main/Lista%20de%20usos%20do%20solo.md)|id_uso_posterior_solo|
 [id_bioma_anterior](https://github.com/ZNIT-Tech/documentation/blob/main/Lista%20de%20Biomas.md)|id_bioma_anterior|
 `consumo_mensal `|Área de MUS _(ha)_|
-`classificacao_ano `|Tipo de vegetacao anterior|
+`classificacao_ano `|Tipo de vegetacao anterior _(Primaria / Secundaria)_|
 `efluente_lancado_ambiente `|Fitonomia anterior _(True/False)_|
-`id_bioma_posterior`|id_bioma_posterior|
+[id_bioma_posterior](https://github.com/ZNIT-Tech/documentation/blob/main/Lista%20de%20Biomas.md)|id_bioma_posterior|
 `efluente_tratamento_aplicado`|Dados primarios sobre estoque de carbono|
 `ch4_recuperado`|Estoque de carbono do solo _(tC/ha)_|
 `fator_n2o_n`| Estoque de carbono da biomassa _(tC/ha)_|
