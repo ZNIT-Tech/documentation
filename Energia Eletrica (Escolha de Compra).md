@@ -16,9 +16,10 @@ Campos no Supabase|Valores GHG|
 `fator_n2o`|Fator de N2O fornecido pelo gerador _(tN2O / MWh)_|
 `fator_co2_bio`|Fator de CO2 biogênico|
 `eficiencia_recuperacao`|Eficiência da planta geradora _(decimal <= 1.0)_|
-`fator_personalizado`|Utilizar fator provido _(true/false)_|
+`fator_personalizado`*|Utilizar fator provido _(true/false)_|
 
 <sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual. Eficiência padrão: 1.0 = 100%</em></sub>
+<sub><em>Obs.: Colocar TRUE apenas quando tiver um valor inserido em fator de emissão de CO2, CH4 e N2O </em></sub>
 
 </details>
 
