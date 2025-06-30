@@ -13,6 +13,7 @@ Campo no Supabase|Valor GHG|
 `nro_passageiros`|Número de Passageiros|
 `dist_percorrida`|Distância Percorrida _(km)_ por trecho|
 `consumo_mensal`|Dias trabalhodos / ano|
+`fator_personalizado`|Ida e volta _(true/false)_|
 
 ---
 
@@ -25,6 +26,7 @@ Campo no Supabase|Valor GHG|
 `dist_percorrida`|Distância Percorrida _(km)_ por trecho|
 `dias_trabalhados`|Dias trabalhodos|
 `meses_trabalhados`|Meses trabalhodos|
+`fator_personalizado`|Ida e volta _(true/false)_|
 
 ---
 
@@ -39,6 +41,7 @@ Campos no Supabase|Valores GHG|
 `consumo_anual`|Dias trabalhados no ano|
 `consumo_mensal`|Dias trabalhados / mês |
 `consumo_medio_dia`|Consumo médio de combustivel / dia _(litros ou m³)_|
+`fator_personalizado`|Ida e volta _(true/false)_|
 
 <sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
 
@@ -52,6 +55,7 @@ Campos no Supabase|Valores GHG|
 `consumo_anual`|Dias trabalhados no ano|
 `consumo_mensal`|Dias trabalhados / mês |
 `consumo_medio_dia`|Consumo médio de combustivel / dia _(litros ou m³)_|
+`fator_personalizado`|Ida e volta _(true/false)_|
 
 <sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
 
@@ -66,6 +70,7 @@ Campo no Supabase|Valor GHG
 `consumo_anual`|Dias trabalhados no ano|
 `consumo_mensal`|Dias trabalhados / mês |
 `consumo_medio_dia`|Distância média / dia _(km)_|
+`fator_personalizado`|Ida e volta _(true/false)_|
 
 <sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
 
@@ -80,6 +85,7 @@ Campo no Supabase|Valor GHG
 `dias_trabalhados`|Dias trabalhados na semana|
 `meses_trabalhados`|Meses trabalhados no ano|
 `consumo_medio_dia`|Distância média / dia _(km)_|
+`fator_personalizado`|Ida e volta _(true/false)_|
 
 <sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
 
