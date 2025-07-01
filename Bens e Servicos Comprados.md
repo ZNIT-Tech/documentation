@@ -6,14 +6,17 @@
 |Campo no Supabase	|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_BENS E SERVIÇOS COMPRADOS_|
-|[id_compra_produto](https://github.com/ZNIT-Tech/documentation/blob/main/Gases.md)|Id do produto/serviço|
+|[id_compra_produto](https://github.com/ZNIT-Tech/documentation/blob/main/Gases.md)*|Id do produto/serviço|
 |`quant`|Quantidade comprada|
 |`un`|Unidade da compra|
-|`fator_de_emisso_bruto*`|Fator bruto de emissão|
-|`fator_correcao_do_fator_emissao*`|Fator de correção do fator de emissão|
-|`fator_conv_un_medida*`|Fator de conversão da unidade de medida|
+|`fator_de_emisso_bruto**`|Fator bruto de emissão|
+|`fator_correcao_do_fator_emissao**`|Fator de correção do fator de emissão|
+|`fator_conv_un_medida**`|Fator de conversão da unidade de medida|
 
-<sub><em>Obs.: * Valores não obrigatórios</em></sub>
+<sub><em>Obs.: * Se CNPJ for 07882930000165, procurar em [Tabela de Produtos - Mitre](https://github.com/ZNIT-Tech/documentation/blob/main/Tabela%20de%20Produtos%20-%20Mitre.md) </em></sub>
+
+<sub><em>Obs.: ** Valores não obrigatórios</em></sub>
+
 
 |Campo no Supabase	|Valores GHG|
 |---|---|
