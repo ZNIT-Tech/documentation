@@ -30,6 +30,8 @@
 
 [Bens e Serviços Comprados](https://github.com/ZNIT-Tech/documentation/blob/main/Bens%20e%20Servicos%20Comprados.md)
 
+[Bens e Serviços Vendidos](https://github.com/ZNIT-Tech/documentation/blob/main/Bens%20e%20Servicos%20Vendidos.md)
+
 [Efluentes](https://github.com/ZNIT-Tech/documentation/blob/main/Efluentes.md)
 
 [Emissões Casa-Trabalho](https://github.com/ZNIT-Tech/documentation/blob/main/Casa-Trabalho.md)
