@@ -6,7 +6,7 @@
 |Campo no Supabase	|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_BENS E SERVIÇOS COMPRADOS_|
-|[id_compra_produto](https://github.com/ZNIT-Tech/documentation/blob/main/Gases.md)*|Id do produto/serviço|
+|[id_compra_produto](https://github.com/ZNIT-Tech/documentation/blob/main/Produtos%20e%20Servi%C3%A7os.md)*|Id do produto/serviço|
 |`quant`|Quantidade comprada|
 |`un`|Unidade da compra|
 |`fator_de_emisso_bruto**`|Fator bruto de emissão|
@@ -21,7 +21,7 @@
 |Campo no Supabase	|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_COMPRA DE PRODUTOS E SERVIÇOS_|
-|[id_compra_produto](https://github.com/ZNIT-Tech/documentation/blob/main/Gases.md)|Id do produto/serviço|
+|[id_compra_produto](https://github.com/ZNIT-Tech/documentation/blob/main/Produtos%20e%20Servi%C3%A7os.md)|Id do produto/serviço|
 |`quant`|Quantidade comprada|
 |`un`|Unidade da compra|
 |`fator_de_emisso_bruto*`|Fator bruto de emissão|
