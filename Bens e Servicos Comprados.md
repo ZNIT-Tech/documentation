@@ -1,4 +1,4 @@
-# Bens e Serviços Comprados / Compra de Produtos e Serviços
+# Bens e Serviços Comprados
 
 <details>
   <summary><strong><h2>Dados obrigatórios para cálculo</strong></summary>
