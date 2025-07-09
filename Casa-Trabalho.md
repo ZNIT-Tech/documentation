@@ -12,7 +12,7 @@ Campo no Supabase|Valor GHG|
 [id_veiculo_viagem](https://github.com/ZNIT-Tech/documentation/blob/main/Transportes%20Publicos.md)|Tipo de transporte público|
 `nro_passageiros`|Número de Passageiros|
 `dist_percorrida`|Distância Percorrida _(km)_ por trecho|
-`consumo_mensal`|Dias trabalhodos / ano|
+`consumo_mensal`|Dias trabalhados / ano|
 `fator_personalizado`|Ida e volta _(true/false)_|
 
 ---
@@ -24,8 +24,8 @@ Campo no Supabase|Valor GHG|
 [id_veiculo_viagem](https://github.com/ZNIT-Tech/documentation/blob/main/Transportes%20Publicos.md)|Tipo de transporte público|
 `nro_passageiros`|Número de Passageiros|
 `dist_percorrida`|Distância Percorrida _(km)_ por trecho|
-`dias_trabalhados`|Dias trabalhodos|
-`meses_trabalhados`|Meses trabalhodos|
+`dias_trabalhados`|Dias trabalhados|
+`meses_trabalhados`|Meses trabalhados|
 `fator_personalizado`|Ida e volta _(true/false)_|
 
 ---
