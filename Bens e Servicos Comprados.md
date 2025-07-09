@@ -17,6 +17,16 @@
 
 <sub><em>Obs.: ** Valores não obrigatórios</em></sub>
 
+Campo no Supabase|Valores GHG
+|---|---|
+`categoria_de_emissoes`|_BENS E SERVICOS COMPRADOS - COMBUSTAO MOVEL 2_
+`date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+[combustivel](https://github.com/ZNIT-Tech/documentation/blob/main/Combustiveis.md)|Tipo de combustível|
+`consumo_anual`|Consumo anual _(litros/m³/kg)_|
+`consumo_mensal`|Consumo referente ao mês de date _(litros, m³ ou kg)_|
+
+<sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
+
 </details>
 
 ---
