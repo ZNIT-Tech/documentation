@@ -27,6 +27,12 @@ Campo no Supabase|Valores GHG
 
 <sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
 
+|Campo no Supabase	|Valores GHG|
+|---|---|
+`categoria_de_emissoes`|_BENS E SERVICOS COMPRADOS - PROCESSOS INDUSTRIAIS_|
+|[gwp_id](https://github.com/ZNIT-Tech/documentation/blob/main/Gases.md)|Gás de Efeito Estufa (GEE)|
+|`consumo_anual`|Emissões _(t GEE)_|
+
 </details>
 
 ---
