@@ -31,7 +31,10 @@
 |`consumo_mensal`|Quantidade de Resíduos _(t)_|
 |[destino_residuo_ipcc](https://github.com/ZNIT-Tech/documentation/blob/main/Destino%20Residuos.md)|Destino de Residuos|
 |[residuo_ipcc](https://github.com/ZNIT-Tech/documentation/blob/main/Residuos.md)|Tipo de Resíduo|
-|`un`|Unidade de medida _(t ou kg)_|
+|`un`|Unidade de medida _(t, kg ou m3)_|
+|`efluente_unidade_final*`| Tecnologia |
+
+<sub><em>Obs*.: Apenas para Mitre</em></sub>
 
 </details>
 
