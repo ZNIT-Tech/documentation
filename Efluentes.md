@@ -8,6 +8,8 @@
 |Campos no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_EFLUENTES - IPCC - DBO_|
+|`date`|Data|
+|`escopo`|Escopo|
 `quant`|MFC
 `fator_metano_dbo_final`|DBO Forte
 `ch4_recuperado`|Maximo CH4
@@ -18,6 +20,8 @@
 |Campos no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_EFLUENTES - IPCC - FUNCIONARIOS_|
+|`date`|Data|
+|`escopo`|Escopo|
 `consumo_mensal`|MFC
 `fator_metano_dbo_final`|DBO Forte
 `ch4_recuperado`|CH4 Recuperado
@@ -43,7 +47,6 @@
 `cdigo_do_produto`|Codigo produto|
 `ncm`|NCM|
 `un`|Unidade de medida|
-`quant`|Quantidade|
 `peso_nf`|Peso|
 `endereco_do_experdidor`|Endereço do remetente|
 `endereco_do_destinatrio`|Endereço do destinatário|
