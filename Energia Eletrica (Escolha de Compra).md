@@ -7,6 +7,7 @@ Campos no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_ENERGIA ELETRICA (ESCOLHA DE COMPRA)_|
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+|`escopo`|Escopo|
 `consumo_anual`|Eletricidade comprada anual _(MWh)_|
 `consumo_mensal`|Eletricidade comprada / mês referente a date _(MWh)_|
 [id_fonte_geracao_energia](https://github.com/ZNIT-Tech/documentation/blob/main/Fonte%20de%20Geracao%20de%20Energia.md)|Fonte de Geração de Energia|
