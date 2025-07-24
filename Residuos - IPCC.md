@@ -7,6 +7,8 @@
 |Campo no Supabase	|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_RESÍDUOS SÓLIDOS_|
+|`date`|Data|
+|`escopo`|Escopo|
 [id_uf](https://github.com/ZNIT-Tech/documentation/blob/main/Municipios.md)|
 |`residuos_aterro`|Quantidade de Resíduos _(t)_|
 |`composicao_papelao`|Composição em decimal (ex: 0.5)|
@@ -28,6 +30,8 @@
 |Campo no Supabase	|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_RESIDUOS - IPCC_|
+|`date`|Data|
+|`escopo`|Escopo|
 |`consumo_mensal`|Quantidade de Resíduos _(t)_|
 |[destino_residuo_ipcc](https://github.com/ZNIT-Tech/documentation/blob/main/Destino%20Residuos.md)|Destino de Residuos|
 |[residuo_ipcc](https://github.com/ZNIT-Tech/documentation/blob/main/Residuos.md)|Tipo de Resíduo|
@@ -51,7 +55,6 @@
 `natureza_da_operao`|Natureza da operação|
 `cdigo_do_produto`|Codigo produto|
 `ncm`|NCM|
-`un`|Unidade de medida|
 `quant`|Quantidade|
 `peso_nf`|Peso|
 `endereco_do_experdidor`|Endereço do remetente|
