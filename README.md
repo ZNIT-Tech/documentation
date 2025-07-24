@@ -10,6 +10,8 @@
 
 [Combustão Móvel](https://github.com/ZNIT-Tech/documentation/blob/main/Combustao%20Movel.md)
 
+[Efluentes](https://github.com/ZNIT-Tech/documentation/blob/main/Efluentes.md)
+
 [Emissões Fugitivas](https://github.com/ZNIT-Tech/documentation/blob/main/Emissoes%20Fugitivas.md)
 
 [Mudança no Uso do Solo](https://github.com/ZNIT-Tech/documentation/blob/main/Mudanca%20no%20Uso%20do%20Solo.md)
@@ -25,6 +27,8 @@
 [Energia Elétrica (Sistema Isolado)](https://github.com/ZNIT-Tech/documentation/blob/main/Energia%20Eletrica%20(Sistema%20Isolado).md)
 
 #### Escopo 3:
+
+[Atividades de Agricultura](https://github.com/ZNIT-Tech/documentation/blob/main/Atividades%20de%20Agricultura.md)
 
 [Bens de Capital](https://github.com/ZNIT-Tech/documentation/blob/main/Bens%20de%20Capital.md)
 
