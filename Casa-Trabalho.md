@@ -9,6 +9,7 @@ Campo no Supabase|Valor GHG|
 |---|---|
 `categoria_de_emissoes`|_TRABALHO-CASA_|
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+|`escopo`|Escopo|
 [id_veiculo_viagem](https://github.com/ZNIT-Tech/documentation/blob/main/Transportes%20Publicos.md)|Tipo de transporte público|
 `nro_passageiros`|Número de Passageiros|
 `dist_percorrida`|Distância Percorrida _(km)_ por trecho|
@@ -21,6 +22,7 @@ Campo no Supabase|Valor GHG|
 |---|---|
 `categoria_de_emissoes`|_TRABALHO-CASA - ANUAL_|
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+|`escopo`|Escopo|
 [id_veiculo_viagem](https://github.com/ZNIT-Tech/documentation/blob/main/Transportes%20Publicos.md)|Tipo de transporte público|
 `nro_passageiros`|Número de Passageiros|
 `dist_percorrida`|Distância Percorrida _(km)_ por trecho|
@@ -36,6 +38,7 @@ Campos no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_TRABALHO-CASA 1_|
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+|`escopo`|Escopo|
 [tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Veiculos%20da%20Frota.md)|Tipo da frota de veículos|
 `ano_frota`|Ano da frota|
 `consumo_anual`|Dias trabalhados no ano|
@@ -51,6 +54,7 @@ Campos no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_TRABALHO-CASA 2_|
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+|`escopo`|Escopo|
 [combustivel](https://github.com/ZNIT-Tech/documentation/blob/main/Combustiveis.md)|Tipo da frota de veículos|
 `consumo_anual`|Dias trabalhados no ano|
 `consumo_mensal`|Dias trabalhados / mês |
@@ -65,6 +69,7 @@ Campo no Supabase|Valor GHG
 |---|---|
 `categoria_de_emissoes`|_TRABALHO-CASA 3_ |
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+|`escopo`|Escopo|
 [tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Veiculos%20da%20Frota.md)|Tipo da frota de veículos|
 `ano_frota`|Ano da frota|
 `consumo_anual`|Dias trabalhados no ano|
@@ -80,6 +85,7 @@ Campo no Supabase|Valor GHG
 |---|---|
 `categoria_de_emissoes`|_TRABALHO-CASA 3 - ANUAL_ |
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+|`escopo`|Escopo|
 [tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Veiculos%20da%20Frota.md)|Tipo da frota de veículos|
 `ano_frota`|Ano da frota|
 `dias_trabalhados`|Dias trabalhados na semana|
@@ -94,6 +100,7 @@ Campo no Supabase|Valor GHG
 |---|---|
 `categoria_de_emissoes`|_TRABALHO-CASA - REMOTO_ |
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+|`escopo`|Escopo|
 `nro_passageiros`|Numero de colaboradores em trabalho remoto|
 `dias_trabalhados`|Dias trabalhados na semana em regime remoto|
 `consumo_anual`|Dias trabalhados no ano*|
@@ -106,6 +113,7 @@ Campo no Supabase|Valor GHG
 |---|---|
 `categoria_de_emissoes`|_TRABALHO-CASA - REMOTO - ANUAL_ |
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+|`escopo`|Escopo|
 `nro_passageiros`|Numero de colaboradores em trabalho remoto|
 `dias_trabalhados`|Dias trabalhados na semana em regime remoto|
 `meses_trabalhados`|Meses trabalhados em regime remoto|
