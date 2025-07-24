@@ -6,6 +6,8 @@
 |Campo no Supabase	|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_PROCESSOS INDUSTRIAIS_|
+|`date`|Data|
+|`escopo`|Escopo|
 |[gwp_id](https://github.com/ZNIT-Tech/documentation/blob/main/Gases.md)|Gás de Efeito Estufa (GEE)|
 |`consumo_anual`|Emissões _(t GEE)_|
 
@@ -13,6 +15,8 @@
 |Campos no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_INDUSTRIAS - IPCC_|
+|`date`|Data|
+|`escopo`|Escopo|
 [gwp_id](https://github.com/ZNIT-Tech/documentation/blob/main/Gases.md)|Gás ou composto|
 `horas_trabalhadas`|Horas trabalhadas
 `chamine_1`|Emissão da chaminé 1
