@@ -9,6 +9,7 @@ Campo no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_TRANSPORTE E DISTRIBUIÇÃO (DOWNSTREAM) 1_
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+|`escopo`|Escopo|
 [tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Veiculos%20da%20Frota.md)|Tipo da frota de veículos|
 `ano_frota`|Ano da frota|
 `consumo_anual`|Consumo anual de combustível _(litros)_|
@@ -23,6 +24,7 @@ Campo no Supabase|Valores GHG
 |---|---|
 `categoria_de_emissoes`|_TRANSPORTE E DISTRIBUIÇÃO (DOWNSTREAM) 2_
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+|`escopo`|Escopo|
 [combustivel](https://github.com/ZNIT-Tech/documentation/blob/main/Combustiveis.md)|Tipo de combustível|
 `consumo_anual`|Consumo anual _(litros, m³ ou kg)_|
 `consumo_mensal`|Consumo referente ao mês de date _(litros, m³ ou kg)_|
@@ -35,6 +37,8 @@ Campo no Supabase|Valores GHG
 Campos no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_TRANSPORTE E DISTRIBUIÇÃO (DOWNSTREAM) 3_|
+|`date`|Data|
+|`escopo`|Escopo|
 [Id_caminhao](https://github.com/ZNIT-Tech/documentation/blob/main/Caminhoes.md)|Tipo de veículo|
 `carga_transportada`|Carga Transportada _(t)_|
 `consumo_anual`|Distância Percorrida _(km)_|
@@ -47,6 +51,7 @@ Campo no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_TRANSPORTE E DISTRIBUIÇÃO (DOWNSTREAM) 4_
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+|`escopo`|Escopo|
 [tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Veiculos%20da%20Frota.md)|Tipo da frota de veículos|
 `ano_frota`|Ano da frota|
 `ano_do_veculo`|Ano do veículo|
