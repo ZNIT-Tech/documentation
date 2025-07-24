@@ -6,6 +6,8 @@
 |Campo no Supabase	|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_ATIVIDADES DE AGRICULTURA_|
+|`date`|Data|
+|`escopo`|Escopo|
 |[gwp_id](https://github.com/ZNIT-Tech/documentation/blob/main/Gases.md)|Gás de Efeito Estufa (GEE)|
 |`consumo_anual`|Emissões _(t GEE)_|
 
@@ -14,6 +16,8 @@
 |Campos no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_ATIVIDADE AGRICOLA - IPCC_|
+|`date`|Data|
+|`escopo`|Escopo|
 `consumo_mensal`|Consumo Mensal _(kg)_
 `percent_n`|Percentual de N _(ex.: 23)_
 `fator_n2o`|Fator de N2O  _(kg)_
