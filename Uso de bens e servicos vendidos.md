@@ -6,6 +6,8 @@
 |Campo no Supabase	|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_USO DE BENS E SERVIÇOS VENDIDOS_|
+|`date`|Data|
+|`escopo`|Escopo|
 |[gwp_id](https://github.com/ZNIT-Tech/documentation/blob/main/Gases.md)|Gás de Efeito Estufa (GEE)|
 |`consumo_anual`|Emissões _(t GEE)_|
 
