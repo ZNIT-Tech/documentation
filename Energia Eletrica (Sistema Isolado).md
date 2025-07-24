@@ -7,6 +7,7 @@
 |---|---|
 `categoria_de_emissoes`|_COMPRA DE ENERGIA ELETRICA - SISTEMA ISOLADO_
 |`date`|Data de referência _(yyyy-mm-dd hh:mm:ss)_|
+|`escopo`|Escopo|
 |[combustivel](https://github.com/ZNIT-Tech/documentation/blob/main/Combustiveis.md)|Combustível Utilizado|
 |[id_setor](https://github.com/ZNIT-Tech/documentation/blob/main/Setores.md)|Setor do fator de emissão|
 |`un`|Unidade|
