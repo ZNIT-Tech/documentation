@@ -10,6 +10,8 @@
 Campo no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_VIAGENS A NEGÓCIOS - AEROPORTO - DISTANCIA_
+|`date`|Data|
+|`escopo`|Escopo|
 `cnpj_usuario`|CNPJ da empresa|
 `dist_percorrida`|Tipo de Viagem Aérea _(km)_|
 `consumo_mensal`|Quilometragem do Passageiro _(km)_|
@@ -19,6 +21,8 @@ Campo no Supabase|Valores GHG|
 Campo no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_VIAGENS A NEGÓCIOS - AEROPORTO_
+|`date`|Data|
+|`escopo`|Escopo|
 [id_aeroporto_saida](https://github.com/ZNIT-Tech/documentation/blob/main/Aeroportos.md)|Partida|
 [id_aeroporto_chegada](https://github.com/ZNIT-Tech/documentation/blob/main/Aeroportos.md)|Chegada|
 
@@ -27,6 +31,7 @@ Campo no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_VIAGENS A NEGOCIOS_
 `date`|Data da referência
+|`escopo`|Escopo|
 [id_veiculo_viagem](https://github.com/ZNIT-Tech/documentation/blob/main/Transportes%20Publicos.md)|Tipo de transporte público|
 `nro_passageiros`|Quantidade de Passageiros|
 `dist_percorrida`|Distância Percorrida _(km)_|
@@ -39,6 +44,7 @@ Campo no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_VIAGENS A NEGÓCIOS - AUTOMÓVEIS 1_
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+|`escopo`|Escopo|
 [tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Veiculos%20da%20Frota.md)|Tipo da frota de veículos|
 `ano_frota`|Ano da frota|
 `consumo_anual`|Consumo anual de combustível _(litros)_|
@@ -53,6 +59,7 @@ Campo no Supabase|Valores GHG
 |---|---|
 `categoria_de_emissoes`|_VIAGENS A NEGÓCIOS - AUTOMÓVEIS 2_
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+|`escopo`|Escopo|
 [combustivel](https://github.com/ZNIT-Tech/documentation/blob/main/Combustiveis.md)|Tipo de combustível|
 `consumo_anual`|Consumo anual _(litros, km ou m³)_|
 `consumo_mensal`|Consumo referente ao mês de date _(litros, km ou m³)_|
@@ -66,6 +73,7 @@ Campo no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_VIAGENS A NEGÓCIOS - AUTOMÓVEIS 3_
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+|`escopo`|Escopo|
 [tipo_veiculo_frota](https://github.com/ZNIT-Tech/documentation/blob/main/Veiculos%20da%20Frota.md)|Tipo da frota de veículos|
 `ano_frota`|Ano da frota|
 `ano_do_veculo`|Ano do veículo|
@@ -79,6 +87,8 @@ Campo no Supabase|Valores GHG|
 Campo no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_VIAGENS A NEGOCIO - PERNOITE_
+|`date`|Data|
+|`escopo`|Escopo|
 `dias_trabalhados`|Número de noites|
 `consumo_mensal`|Número de quartos|
 
