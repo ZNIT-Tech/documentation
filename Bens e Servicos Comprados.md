@@ -6,6 +6,8 @@
 |Campo no Supabase	|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_BENS E SERVIÇOS COMPRADOS_|
+|`date`|Data|
+|`escopo`|Escopo|
 |[id_compra_produto](https://github.com/ZNIT-Tech/documentation/blob/main/Produtos%20e%20Servi%C3%A7os.md)*|Id do produto/serviço|
 |`quant`|Quantidade comprada|
 |`un`|Unidade da compra|
@@ -21,6 +23,7 @@ Campo no Supabase|Valores GHG
 |---|---|
 `categoria_de_emissoes`|_BENS E SERVICOS COMPRADOS - COMBUSTAO MOVEL 2_
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+|`escopo`|Escopo|
 [combustivel](https://github.com/ZNIT-Tech/documentation/blob/main/Combustiveis.md)|Tipo de combustível|
 `consumo_anual`|Consumo anual _(litros/m³/kg)_|
 `consumo_mensal`|Consumo referente ao mês de date _(litros, m³ ou kg)_|
@@ -48,8 +51,6 @@ Campo no Supabase|Valores GHG
 `natureza_da_operao`|Natureza da operação|
 `cdigo_do_produto`|Codigo produto|
 `ncm`|NCM|
-`un`|Unidade de medida|
-`quant`|Quantidade|
 `peso_nf`|Peso|
 `endereco_do_experdidor`|Endereço do remetente|
 `endereco_do_destinatrio`|Endereço do destinatário|
