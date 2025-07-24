@@ -7,6 +7,7 @@ Campos no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_COMPRA ENERGIA ELÉTRICA - LOCALIZAÇÃO_|
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+|`escopo`|Escopo|
 `consumo_anual`|Eletricidade comprada anual _(MWh)_|
 `consumo_mensal`|Eletricidade comprada / mês referente a date _(MWh)_|
 
@@ -17,6 +18,7 @@ Campos no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_COMPRA ENERGIA ELÉTRICA - LOCALIZAÇÃO - COLOMBIA_|
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
+|`escopo`|Escopo|
 `consumo_anual`|Eletricidade comprada anual _(MWh)_|
 `consumo_mensal`|Eletricidade comprada / mês referente a date _(MWh)_|
 
