@@ -5,8 +5,9 @@
 
 |Campo no Supabase|Valor GHG|
 |---|---|
-`categoria_de_emissoes`|_COMBUSTÃO ESTACIONÁRIA_
+`categoria_de_emissoes`|_COMBUSTÃO ESTACIONÁRIA_|
 |`date`|Data de referência _(yyyy-mm-dd hh:mm:ss)_|
+|`escopo`|Escopo|
 |[combustivel](https://github.com/ZNIT-Tech/documentation/blob/main/Combustiveis.md)|Combustível Utilizado|
 |[id_setor](https://github.com/ZNIT-Tech/documentation/blob/main/Setores.md)|Setor do fator de emissão|
 |`un`|Unidade|
