@@ -6,6 +6,8 @@
 |Campo no Supabase	|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_BENS DE CAPITAL_|
+|`date`|Data|
+|`escopo`|Escopo|
 |[id_bens_capital](https://github.com/ZNIT-Tech/documentation/blob/main/Lista%20de%20Bens%20de%20Capital.md)|ID da tabela de bens de capital|
 |`quant`|Peso do produto _(t ou kg)_|
 |`unidade`|Unidade de medida do peso _(t ou kg)_|
@@ -30,8 +32,6 @@
 `natureza_da_operao`|Natureza da operação|
 `cdigo_do_produto`|Codigo produto|
 `ncm`|NCM|
-`un`|Unidade de medida|
-`quant`|Quantidade|
 `peso_nf`|Peso|
 `endereco_do_experdidor`|Endereço do remetente|
 `endereco_do_destinatrio`|Endereço do destinatário|
