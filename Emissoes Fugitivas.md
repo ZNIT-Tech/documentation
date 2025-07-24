@@ -8,6 +8,7 @@
 |Campos no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_EMISSOES FUGITIVAS - NAO QUIOTO_|
+|`date`|Data|
 `escopo`|4| 
 [gwp_id](https://github.com/ZNIT-Tech/documentation/blob/main/Gases.md)|Gás ou composto|
 `uni_novas_carga`|Unidades Novas Carga _(kg)_
@@ -21,6 +22,7 @@
 |Campos no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_EMISSOES FUGITIVAS 1_|
+|`date`|Data|
 `escopo`|1|
 [gwp_id](https://github.com/ZNIT-Tech/documentation/blob/main/Gases.md)|Gás ou composto|
 `uni_novas_carga`|Unidades Novas Carga _(kg)_
@@ -35,6 +37,7 @@
 Campos no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_EMISSOES FUGITIVAS 2_|
+|`date`|Data|
 `escopo`|1|
 [gwp_id](https://github.com/ZNIT-Tech/documentation/blob/main/Gases.md)|Gás ou composto|
 `uni_novas_capacidade`|VE = Variação no estoque _(kg)_|
@@ -47,6 +50,7 @@ Campos no Supabase|Valores GHG|
 Campos no Supabase|Valores GHG|
 |---|---|
 `categoria_de_emissoes`|_EMISSOES FUGITIVAS 3_|
+|`date`|Data|
 `escopo`|1|
 [gwp_id](https://github.com/ZNIT-Tech/documentation/blob/main/Gases.md)|Gás ou composto|
 [id_equip_refrigerador](https://github.com/ZNIT-Tech/documentation/blob/main/Equipamento%20de%20Refrigeracao.md)| Tipo de Equipamento|
