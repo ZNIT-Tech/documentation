@@ -3,29 +3,6 @@
 <details>
   <summary><strong><h2>Dados obrigatórios para cálculo</strong></summary>
 
-#### Resíduos Sólidos
-|Campo no Supabase	|Valores GHG|
-|---|---|
-`categoria_de_emissoes`|_RESÍDUOS SÓLIDOS_|
-|`date`|Data|
-|`escopo`|Escopo|
-[id_uf](https://github.com/ZNIT-Tech/documentation/blob/main/Municipios.md)|
-|`residuos_aterro`|Quantidade de Resíduos _(t)_|
-|`composicao_papelao`|Composição em decimal (ex: 0.5)|
-|`composicao_textil`|Composição em decimal (1.0 = 100%)|
-|`composicao_alimentar`|Composição em decimal (1.0 = 100%)|
-|`composicao_madeira`|Composição em decimal (1.0 = 100%)|
-|`composicao_jardim`|Composição em decimal (1.0 = 100%)|
-|`composicao_fraldas`|Composição em decimal (1.0 = 100%)|
-|`composicao_borracha`|Composição em decimal (1.0 = 100%)|
-|`composicao_lodo_domestico`|Composição em decimal (1.0 = 100%)|
-|`composicao_lodo_industrial`|Composição em decimal (1.0 = 100%)|
-|`classificacao_ano`|A, B, C, D, E, F, G, H|
-|`fracao_ch4_biogas`|Entre com o dado, entre 0 e 1 (Padrão = 0.5)|
-|`recuperacao_metano`|sim ou nao|
-|`eficiencia_recuperacao`||
-
-
 #### Resíduos - IPCC
 |Campo no Supabase	|Valores GHG|
 |---|---|
