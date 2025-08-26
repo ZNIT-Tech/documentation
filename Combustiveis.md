@@ -3,7 +3,7 @@
 |ID|Combustível| Unidade|
 |---|---|---|
 1|Biodiesel (B100)|Litros|
-2|Etanol|Toneladas|
+2|Etanol|Litros|
 3|Gás Liquefeito de Petróleo (GLP)|Toneladas|
 4|Gás Natural Veicular (GNV)|m³|
 5|Gasolina Automotiva (comercial)|Litros|
