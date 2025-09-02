@@ -58,7 +58,7 @@ Campo no Supabase|Valores GHG|
 `consumo_anual`|Distância percorrida anual _(km)_|
 `consumo_mensal`|Distância percorrida / mês referente a date _(km)_|
 
-<sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual. Quant só é usado quando consumo_mensal e consumo_anual não forem preenchidos. Ano_do_veculo só utiliza quando ano_frota não for preenchido</em></sub>
+<sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual. Quant só é usado quando consumo_mensal e consumo_anual não forem preenchidos. Ano_do_veculo só utiliza quando ano_frota não for preenchido. Dar preferencia para ano_frota</em></sub>
 
 </details>
 
