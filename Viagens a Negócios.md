@@ -25,6 +25,7 @@ Campo no Supabase|Valores GHG|
 |`escopo`|Escopo|
 [id_aeroporto_saida](https://github.com/ZNIT-Tech/documentation/blob/main/Aeroportos.md)|Partida|
 [id_aeroporto_chegada](https://github.com/ZNIT-Tech/documentation/blob/main/Aeroportos.md)|Chegada|
+|`quant`|Trechos|
 
 ### Transporte Público
 Campo no Supabase|Valores GHG|
