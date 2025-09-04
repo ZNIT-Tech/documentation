@@ -15,7 +15,21 @@
 |`*fator_correcao_do_fator_emissao`|*Fator de correção de fator de emissao|
 |`*fator_conv_un_medida`|*Fator de conversar de unidade de medida|
 
-<sub><em>Obs.: *Valor não obrigatórios, inserir apenas caso possua</em></sub>
+<sub><em>Obs.: *Valor não obrigatório, inserir apenas caso possua</em></sub>
+
+|Campo no Supabase	|Valores GHG|
+|---|---|
+`categoria_de_emissoes`|_BENS E SERVIÇOS COMPRADOS - ECO_|
+|`date`|Data|
+|`escopo`|Escopo|
+|`eco_product`|Activity_id|
+|`quant`|Quantidade comprada|
+|`un`|Unidade da compra|
+|`*fator_de_emisso_bruto`|Fator bruto de emissão|
+|`*fator_correcao_do_fator_emissao`|Fator de correção do fator de emissão|
+|`*fator_conv_un_medida`|Fator de conversão da unidade de medida|
+
+<sub><em>Obs.: *Valor não obrigatório, inserir apenas caso possua</em></sub>
 
 </details>
 
