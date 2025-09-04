@@ -93,6 +93,18 @@ Campo no Supabase|Valores GHG|
 `dias_trabalhados`|Número de noites|
 `consumo_mensal`|Número de quartos|
 
+Campo no Supabase|Valores GHG|
+|---|---|
+`categoria_de_emissoes`|_VIAGENS - TRANSPORTE MONETARIO_
+|`date`|Data|
+|`escopo`|Escopo|
+`cnpj_usuario`|CNPJ da empresa|
+`*id_veiculo_viagem`|ID de veículo|
+`quant`|Quantidade de entradas|
+`un`|Unidade _(R$ / KR$)_|
+
+<sub><em>Obs.: 1 - Transporte rodoviário. 2 - Taxi</em></sub>
+
 </details>
 
 ---
