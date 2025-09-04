@@ -19,7 +19,7 @@
 
 |Campo no Supabase	|Valores GHG|
 |---|---|
-`categoria_de_emissoes`|_BENS E SERVIÇOS COMPRADOS - ECO_|
+`categoria_de_emissoes`|_BENS DE CAPITAL - ECO_|
 |`date`|Data|
 |`escopo`|Escopo|
 |`eco_product`|Activity_id|
