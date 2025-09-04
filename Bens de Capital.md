@@ -1,4 +1,4 @@
-# Bens de capital
+# Bens de Capital
 
 <details>
   <summary><strong><h2>Dados obrigatórios para cálculo</strong></summary>
