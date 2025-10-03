@@ -62,8 +62,8 @@ Campo no Supabase|Valores GHG
 `date`|Data da referência _(yyyy-mm-dd hh:mm:ss)_|
 |`escopo`|Escopo|
 [combustivel](https://github.com/ZNIT-Tech/documentation/blob/main/Combustiveis.md)|Tipo de combustível|
-`consumo_anual`|Consumo anual _(litros, km ou m³)_|
-`consumo_mensal`|Consumo referente ao mês de date _(litros, km ou m³)_|
+`consumo_anual`|Consumo anual _(litros, kg ou m³)_|
+`consumo_mensal`|Consumo referente ao mês de date _(litros, kg ou m³)_|
 
 <sub><em>Obs.: Inserir apenas consumo mensal ou consumo anual</em></sub>
 
