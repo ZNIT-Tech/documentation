@@ -132,3 +132,11 @@ ID | País | Sigla | UF
 128 | Brasil | LNZ | Linz
 129 | Brasil | BSS | Balsas
 130 | Chile | SCL | Santiago
+131 | Arábia Saudita | JED | Jeddah
+132 | Catar | DOH | Doha
+133 | Argentina | EZE | Buenos Aires
+134 | México | MEX | Cidade do México
+135 | Estados Unidos | MIA | Miami
+136 | Estados Unidos | LAS | Los Angeles
+137 | Estados Unidos | ORD | Chicago
+138 | Estados Unidos | FLL | Fort Lauderdale
