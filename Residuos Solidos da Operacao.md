@@ -8,7 +8,7 @@ Campo no Supabase|Valores GHG|
 |`categoria_de_emissoes`|_RESIDUOS SOLIDOS DA OPERACAO_|
 |`date`|Data|
 |`escopo`|Escopo (3)|
-[id_uf](https://github.com/ZNIT-Tech/documentation/blob/main/Municipios.md)|
+[id_uf](https://github.com/ZNIT-Tech/documentation/blob/main/Municipios.md)| Unidade Federativa
 |`residuos_aterro`|Quantidade de Resíduos _(t)_|
 |`composicao_papelao`|Composição em decimal (ex: 0.5)|
 |`composicao_textil`|Composição em decimal (1.0 = 100%)|
@@ -39,7 +39,7 @@ Campo no Supabase|Valores GHG|
 |`categoria_de_emissoes`|_RESÍDUOS SÓLIDOS_|
 |`date`|Data|
 |`escopo`|Escopo (1)|
-[id_uf](https://github.com/ZNIT-Tech/documentation/blob/main/Municipios.md)|
+[id_uf](https://github.com/ZNIT-Tech/documentation/blob/main/Municipios.md)| Unidade Federativa
 |`residuos_aterro`|Quantidade de Resíduos _(t)_|
 |`composicao_papelao`|Composição em decimal (ex: 0.5)|
 |`composicao_textil`|Composição em decimal (1.0 = 100%)|
