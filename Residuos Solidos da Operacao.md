@@ -7,7 +7,7 @@ Campo no Supabase|Valores GHG|
 |---|---|
 |`categoria_de_emissoes`|_RESIDUOS SOLIDOS DA OPERACAO_|
 |`date`|Data|
-|`escopo`|Escopo|
+|`escopo`|Escopo (3)|
 [id_uf](https://github.com/ZNIT-Tech/documentation/blob/main/Municipios.md)|
 |`residuos_aterro`|Quantidade de Resíduos _(t)_|
 |`composicao_papelao`|Composição em decimal (ex: 0.5)|
@@ -34,6 +34,26 @@ Campo no Supabase|Valores GHG|
 |[residuo_ipcc](https://github.com/ZNIT-Tech/documentation/blob/main/Residuos.md)|Tipo de Resíduo|
 |`un`|Unidade de medida _(t ou kg)_|
 
+Campo no Supabase|Valores GHG|
+|---|---|
+|`categoria_de_emissoes`|_RESÍDUOS SÓLIDOS_|
+|`date`|Data|
+|`escopo`|Escopo (1)|
+[id_uf](https://github.com/ZNIT-Tech/documentation/blob/main/Municipios.md)|
+|`residuos_aterro`|Quantidade de Resíduos _(t)_|
+|`composicao_papelao`|Composição em decimal (ex: 0.5)|
+|`composicao_textil`|Composição em decimal (1.0 = 100%)|
+|`composicao_alimentar`|Composição em decimal (1.0 = 100%)|
+|`composicao_madeira`|Composição em decimal (1.0 = 100%)|
+|`composicao_jardim`|Composição em decimal (1.0 = 100%)|
+|`composicao_fraldas`|Composição em decimal (1.0 = 100%)|
+|`composicao_borracha`|Composição em decimal (1.0 = 100%)|
+|`composicao_lodo_domestico`|Composição em decimal (1.0 = 100%)|
+|`composicao_lodo_industrial`|Composição em decimal (1.0 = 100%)|
+|`classificacao_ano`|A, B, C, D, E, F, G, H|
+|`fracao_ch4_biogas`|Entre com o dado, entre 0 e 1 (Padrão = 0.5)|
+|`recuperacao_metano`|sim ou nao|
+|`eficiencia_recuperacao`|Eficiência média de recuperação de metano no aterro|
 
 </details>
 
