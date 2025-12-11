@@ -52,6 +52,8 @@
 
 [Viagens a Negócios](https://github.com/ZNIT-Tech/documentation/blob/main/Viagens%20a%20Neg%C3%B3cios.md)
 
+### Sem Escopo:
+[Conta D'Água](https://github.com/ZNIT-Tech/documentation/blob/main/Conta%20de%20Agua.md)
 
 ### Inserção Manual:
 [Manual](https://github.com/ZNIT-Tech/documentation/blob/main/Manual.md)
