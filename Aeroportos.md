@@ -140,3 +140,50 @@ ID | País | Sigla | UF
 136 | Estados Unidos | LAS | Los Angeles
 137 | Estados Unidos | ORD | Chicago
 138 | Estados Unidos | FLL | Fort Lauderdale
+139 | África do Sul | CPT | Cidade do Cabo
+140 | África do Sul | JNB | Joanesburgo
+141 | Alemanha | TXL | Berlim
+142 | Alemanha | BER | Berlin
+143 | Alemanha | FRA | Frankfurt
+144 | Alemanha | HAM | Hamburgo
+145 | Alemanha | LEJ | Leipzig
+146 | Alemanha | MUC | Munique
+147 | Alemanha | STR | Stuttgart
+148 | Alemanha | CGN | Colônia
+149 | Alemanha | DUS | Dusseldorf
+150 | Alemanha | FMO | Munster
+151 | Alemanha | SXF | Berlim
+152 | Alemanha | ZWS | Stuttgart
+153 | Alemanha | QKL | Cologne-Bonn
+154 | Alemanha | MHG | Mannhein
+155 | Alemanha | BRE | Bremen
+156 | Angola | LAD | Luanda
+157 | Antilhas Holandesas | SXM | St. Maarten
+158 | Argentina | BRC | Bariloche
+159 | Argentina | AEP | Buenos Aires
+160 | Argentina | MDZ | Mendoza
+161 | Argentina | ROS | Rosário
+162 | Argentina | AFA | San Rafael
+163 | Argentina | CRD | Comodoro Rivadavia
+164 | Argentina | UAQ | San Juan
+165 | Argentina | COR | Córdoba
+166 | Argentina | USH | Ushuaia
+167 | Austrália | MEL | Melbourne
+168 | Austrália | PER | Perth
+169 | Austrália | SYD | Sydney
+170 | Austrália | CNS | Cairns
+171 | Austrália | BNE | Brisbane
+172 | Áustria | GRZ | Graz
+173 | Áustria | SZG | Salzburg
+174 | Áustria | VIE | Vienna
+175 | Bahamas | NAS | Nassau
+176 | Bélgica | BRU | Bruxelas
+177 | Sérvia | BEG | Belgrado
+178 | Bolívia | LPB | La Paz
+179 | Bolívia | VVI | Santa Cruz
+180 | Bolívia | CBB | Cochabamba
+181 | Bulgária | SOF | Sofia
+183 | Estados Unidos | SFO | São Francisco
+184 | Estados Unidos | LAX | Los Angeles
+
+
