@@ -28,7 +28,7 @@
 `horas_trabalhadas`|Horas trabalhados _(padrão: 0.018)_
 `dias_trabalhados`|Dias trabalhados _(padrão: 21)_
 `meses_trabalhados`|Meses trabalhados _(padrão: 12)_
-`fator_correcao_do_fator_emissao`|Fator de correção do fator de emissão
+`fator_correcao_do_fator_emissao`|Fator de correção do fator de emissão _(padrão: 1.25)_
 `quant`|Quantidade de Colaboradores
 
 </details>
