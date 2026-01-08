@@ -13,7 +13,8 @@
 |[destino_residuo_ipcc](https://github.com/ZNIT-Tech/documentation/blob/main/Destino%20Residuos.md)|Destino de Residuos|
 |[residuo_ipcc](https://github.com/ZNIT-Tech/documentation/blob/main/Residuos.md)|Tipo de Resíduo|
 |`un`|Unidade de medida _(t, kg ou m3)_|
-|`efluente_unidade_final*`| Tecnologia |
+|`efluente_unidade_final*`|Tecnologia|
+|`fator_conv_un_medida`|Fator de conversão de unidade de medida _(Apenas quando necessário)_|
 
 <sub><em>Obs*.: Apenas para Mitre no ano de 2024</em></sub>
 
