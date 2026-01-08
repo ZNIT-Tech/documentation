@@ -15,7 +15,7 @@
 |`un`|Unidade de medida _(t, kg ou m3)_|
 |`efluente_unidade_final*`| Tecnologia |
 
-<sub><em>Obs*.: Apenas para Mitre</em></sub>
+<sub><em>Obs*.: Apenas para Mitre no ano de 2024</em></sub>
 
 </details>
 
