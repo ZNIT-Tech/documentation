@@ -10,6 +10,7 @@
 |---|---|
 `cnpj_usuario` | CNPJ da empresa|
 `categoria_de_emissoes`|_EMISSOES NAO VINCULADAS_|
+`escopo`|3|
 |`date`|Data de referência|
 
 
