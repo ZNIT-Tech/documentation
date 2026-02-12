@@ -1,4 +1,4 @@
-# Atividades de Agricultura
+# Emissão Não Vinculada
 
 <details>
   <summary><strong><h2>Dados obrigatórios para cálculo</strong></summary>
