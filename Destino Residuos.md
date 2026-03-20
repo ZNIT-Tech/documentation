@@ -8,3 +8,4 @@ id | destino | Descrição
 6  | incinerador_camera | Incinerador (camara)
 7  | queima_ceu_aberto | Queima a céu aberto
 8  | reciclagem| Reciclagem
+9  | coprocessamento | Coprocessamento *
